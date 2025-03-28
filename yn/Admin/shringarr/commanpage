@@ -1,0 +1,24 @@
+<? include('header.php'); ?>
+
+<script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+     
+<link rel="stylesheet" type="text/css" href="datatable/dataTables.bootstrap.css">
+
+
+
+      <div class="main-panel">
+        <div class="content-wrapper">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+    
+<? include('footer.php'); ?>
