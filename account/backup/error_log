@@ -1,0 +1,17 @@
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/srishringarr/public_html/account/backup/viewdts.php on line 1
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/srishringarr/public_html/account/backup/viewdts.php on line 1
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/srishringarr/public_html/account/backup/viewdts.php on line 1
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/srishringarr/public_html/account/backup/viewdts.php on line 2
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/srishringarr/public_html/account/backup/viewdts.php on line 2
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/srishringarr/public_html/account/backup/viewdts.php on line 2
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/srishringarr/public_html/account/backup/viewdts.php on line 22
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/srishringarr/public_html/account/backup/viewdts.php on line 22
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/srishringarr/public_html/account/backup/viewdts.php on line 53
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/srishringarr/public_html/account/backup/viewdts.php on line 54
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/srishringarr/public_html/account/backup/viewdts.php on line 57
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/srishringarr/public_html/account/backup/viewdts.php on line 304
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/srishringarr/public_html/account/backup/viewdts.php on line 304
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/srishringarr/public_html/account/backup/viewdts.php on line 305
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/srishringarr/public_html/account/backup/viewdts.php on line 306
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/srishringarr/public_html/account/backup/viewdts.php on line 306
+[27-Nov-2020 12:19:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/srishringarr/public_html/account/backup/viewdts.php on line 307
