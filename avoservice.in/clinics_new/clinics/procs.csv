@@ -1,0 +1,1787 @@
+1,Consultation OPD,58,50
+2,Consultation- for Inpatients,72,63
+3,Dressings of wounds,58,50
+4,Suturing of wounds with local anesthesia,124,108
+5,Aspiration Plural Effusion - Diagnostic,193,168
+6,Aspiration Plural Effusion - Therapeutic,193,168
+7,Abdom inal Aspiration - Diagnostic,345,300
+8,Abdom inal Aspiration - Therapeutic,460,400
+9,Pericardial Aspiration,380,330
+10,Joints Aspiration,317,276
+11,Biopsy Skin,230,200
+12,Removal of Stitches,41,36
+13,Venesection,124,108
+14,Phimosis Under LA,1311,1140
+15,Sternal puncture,173,150
+16,Injection for Haem orrhoids,414,360
+17,Injection for Varicose Veins,414,360
+18,Catheterisation,83,72
+19,Dilatation of Urethra,575,500
+20,Incision & Drainage,483,420
+21,Intercostal Drainage,125,106
+22,Peritoneal dialysis,1466,1275
+23,Health Chec k up{ see Annex ure (IV-a )for details},1380,1200
+24,Excision of Moles,345,300
+25,Excision of W arts,310,264
+26,Excision of Molluscumcontagiosum,130,111
+27,Excision of Veneral W arts,160,136
+28,Excision of Corns,140,119
+29,I/D Injection Keloid of Acne,97,84
+30,Chemical Cautery (per sittings),110,96
+30,Subconjunctival/subtenon’s injections in one eyes,69,60
+31,Subconjunctival/subtenon’s injections in both eyes,138,120
+32,Pterygium surgeries,86,75
+33,Conjunctival peritomy,58,50
+34,Conjunctival wound r epair or exploration following blunt trauma,115,100
+35,Removal of corneal foreign body,115,100
+36,Cauterization of ulcer/subconjunctival injection in one eye,69,60
+37,Cauterization of ulcer/subconjunctival injection in both eyes,138,120
+38,Corneal grafting—Penetrating keratoplasty,5750,5000
+39,Corneal grafting—Lamellar keratoplasty,5750,5000
+40,Cyanoacrylate /fibrin glue applic ation for corneal perforation,690,600
+41,Bandage c ontact lenses for corneal perforation,460,400
+42,Scleral grafting or conjunctival flap for corneal perforation,2300,2000
+43,Keratoconus correction with ther apeutic contact lenses,1150,1000
+44,UV radiation for cross-linking for keratoconus,2300,2000
+45,EDTA for band shaped k eratopathy,863,750
+46,Arcuate keratotom y for astigmatism,2875,2500
+47,Re-suturing (Primary suturing) of corneal wound,1150,1000
+48,Penetrating keratoplasty ---- with glaucoma surgery,16100,14000
+49,"Penetrating keratoplasty --- with vitrectomy,",12144,10560
+50,Penetrating keratoplasty ---- with IOL im plantation,3450,3000
+51,DALK- Deep anter ior lamellar keratoplasty,17250,15000
+52,Keratoprosthesis stage I and II,11500,10000
+53,DSAEK- Descemet’s stripping autom ated endothelial keratoplasty,19320,16800
+54,ALTK- Autom ated lam ellar therapeutic keratoplasty ,16675,14500
+55,Probing and Syringing of lacrimal sac- in one eye,69,60
+56,Probing and Syringing of lacrimal sac- in both eye,138,120
+57,Dacryocystorhinostomy—Plain,1725,1500
+58,"Dacryocystorhinostomy—Plain  with intubation, and/or with lacrimal implants",8050,7000
+59,Dacryocystorhinostomy—conjunctival with im plant,9200,8000
+60,Canaliculoplasty,2300,2000
+61,Dacryocystectomy,2875,2500
+62,Punctal plugs for dry eyes,115,100
+63,Refraction,41,36
+64,Indirect ophthalm oscopy,104,90
+65,Orthoptic check-up- with synoptophor e,44,38
+66,Lees’ charting or Hess’ charting,115,100
+67,Orthoptic exercises,58,50
+68,Pleoptic exercises,58,50
+69,Perimetry/field test—Goldm an,144,125
+70,Perimetry/field test— autom ated,144,125
+71,Fluorescein angiogr aphy for fundus or iris,345,300
+72,Ultrasound A- Scan,173,150
+73,Ultrasound B- Scan,288,250
+74,Indocyanin green angiogr aphy,920,800
+75,Corneal endothelial c ell count with s pecular micropscopy,230,200
+76,Corneal topogr aphy,331,288
+77,Corneal pachymetry,230,200
+78,Auto-refraction,35,30
+79,Macular function tests,58,50
+80,Potential ac uity metry,115,100
+81,Laser interferometry,230,200
+82,OCT- Optical coherence tomography,345,300
+83,HRT- Heidelber g’s retinal tom ogram,173,150
+84,GDX--- Nerve fibre layer analyzer,138,120
+85,UBM- Ultrasound biom icroscopy,115,100
+86,Non Contac t tonom etry,58,50
+87,IOP m easurement with schiotz,35,30
+88,IOP m easurement with applanation tonom etry,58,50
+89,Three mirror examination for retina,58,50
+90,90 D lens examination,58,50
+91,Gonioscopy,58,50
+92,Chalazion inc ision and curettage in one ey e,414,360
+93,Chalazion inc ision and curettage in both ey es,442,384
+94,Ptosis surgery with fasanella servat procedure,2300,2000
+95,Ptosis surgery with LPS resection,6843,5950
+96,Ptosis surgery with Sling surgery,6900,6000
+97,Ectropion surgery- one lid,1725,1500
+98,Ectropion surgery- both lids,3450,3000
+99,Epicanthus correction,2300,2000
+100,Cantholysis and canthotom y,575,500
+101,Entropion surgery- one lid,1380,1200
+102,Entropion surgery- both lids,2760,2400
+103,Tarsorraphy,700,595
+104,Suturing of lid lacerations,575,500
+105,Lid retraction repair,1725,1500
+106,Concretions removal,115,100
+107,Bucket handle pr ocedure for lid tumors,345,300
+108,Cheek rotation flap for lid tumors,6900,6000
+109,Orbitotom y,8050,7000
+110,Enucleation,3450,3000
+111,Enucleation with or bital implants and artificial prosthesis,3450,3000
+112,Evisceration,3450,3000
+113,Evisceration with or bital implants and artificial prosthesis,5693,4950
+114,Telecanthus correction,5175,4500
+115,Orbital decompression,5750,5000
+116,Exenteration,6900,6000
+117,Exenteration with s kin grafting,5750,5000
+118,Fracture orbital repair,3450,3000
+119,Retinal las er procedures,1380,1200
+120,Retinal detac hment surgery,11500,10000
+121,Retinal detac hment surgery with scleral buckling,13800,12000
+122,Buckle removal,1150,1000
+123,Silicone oil removal,2875,2500
+124,Anterior retinal cryopexy,1162,1010
+125,Squint correction for one eye,700,595
+126,Squint correction for both eyes,1400,1190
+127,Trabeculectomy,6900,6000
+128,Trabeculotomy,6900,6000
+129,Trabeculectomy with Trabeculotomy,2300,2000
+130,Trephination,2300,2000
+131,Goniotom y,345,300
+132,Glaucoma surgery with Glauc oma valves,2300,2000
+133,Cyclocryotherapy,1150,1000
+134,YAG laser iridotomy,1150,1000
+135,YAG laser capsulotomy,1093,950
+136,ALT-Argon laser trabeculoplasty,1725,1500
+137,PDT-Photodynamic therapy,3450,3000
+138,TTT- Transpupillary thermal therapy,3450,3000
+139,PTK- Photother apeutic keratectomy,8050,7000
+140,Argon/diode las er for retina,1150,1000
+141,Intralase application for keratoconus,5750,5000
+142,EOG- electro-oculogram,575,500
+143,ERG- Electrio-retinogram,575,500
+144,VEP- visually evoked potential,575,500
+145,Vitrectomy- pars plana,3450,3000
+146,Intravitreal injections- of antibiotics,1150,1000
+147,Intravitreal injections- of avastin,3450,3000
+148,Intravitreal injections- of lucentis,3450,3000
+149,X- Ray orbit,115,100
+150,CT-orbit and brain,173,150
+151,MRI- Orbit and brain,3450,3000
+152,Dacryocystography,340,289
+153,Orbital angio-graphical studies,1500,1500
+154,ECCE with IOL,5750,5000
+155,SICS with IOL,840,714
+156,Phaco with foldable IOL ( silicone and ac rylic)/PMMA IOL,10781,9375
+157,Pars plana lens ectomy with/without IOL,8050,7000
+158,"Secondary IOL im plantation- AC IOL, PC IOL or scleral fixated IOL",6900,6000
+159,Cataract extraction with IOL with c apsular tension rings (Cionni’s ring),13800,12000
+160,Optic nerve sheathotom y,11500,10000
+161,Iridodialysis repair or papillary reconstruction,5693,4950
+162,Iris cyst removal,863,750
+163,Lid Abscess incision and dr ainage,1725,1500
+164,Orbital Abscess incision and dr ainage,3220,2800
+165,Biopsy,460,400
+166,Paracentesis,230,200
+167,Scleral graft for scleral melting or perforation,1150,1000
+168,Amniotic membrane grafting,1150,1000
+169,Cyclodiathermy,2300,2000
+170,Intraocular foreign body removal,187,163
+171,Electrolysis,230,200
+172,Perforating injury repair,4600,4000
+173,Botulinum injection for blepharospasm or squint,2875,2500
+174,Flap Oper ation per  quadrant,414,360
+175,Gingivectomy per quadrant,269,234
+176,Reduction & im mobilasation of fracture- Maxilla Under LA,1380,1200
+177,Reduction & im mobilasation of fracture-Mandible Under LA,1725,1500
+178,splints/Cirucum mandibular wiring under LA,587,510
+179,splints/Cirucum mandibular wiring under GA,1139,990
+180,Internal wire fixation/plate f ixation of  Maxilla under LA,3450,3000
+181,Internal wire fixation/plate f ixation of Maxilla under GA,4600,4000
+182,Internal wire fixation/plate f ixation of Mandible under LA,4600,4000
+183,Internal wire fixation/plate f ixation of  Mandible under GA,5750,5000
+184,Extraction per tooth under LA,92,80
+185,Complicated Ext. per Tooth under LA,115,100
+186,Extraction of impacted tooth under LA,184,160
+187,Extraction in m entally retarded/patients with systemic diseases/patient with s pecial needs under short term GA,1105,939
+188,Cyst & tum our of Maxilla /mandible by enucleation/excision/marsupalisation upto 4 c ms under LA,281,244
+189,Cyst & tum our of Maxilla/mandible by enucleation/excision/marsupalisation  size more than  4 c ms under LA,467,406
+190,Cyst & tum our of Maxilla/mandible by enucleation/excision/marsupalisation size more than 4 c ms under GA,1150,1000
+191,TM joint ank ylosis- under GA,6958,6050
+192,Biopsy Intraoral-Soft tissue,430,374
+193,Biopsy Intraoral-Bone,430,374
+194,Hemi-mandibulectomy with graft,5693,4950
+195,Hemi-mandibulectomy without gr aft,3335,2900
+196,Segmental-mandibulectomy with graft,4543,3950
+197,Segmental-mandibulectomy without gr aft,1139,990
+198,Maxillectomy- Total with graft,2875,2500
+199,Maxillectomy- Total without gr aft,2243,1950
+200,Maxillectomy- partial with graft,3450,3000
+201,Maxillectomy- partial without gr aft,2875,2500
+202,Release of fibrous bands & grafting -in (OSMF) treatment under GA,1725,1500
+203,Pre-prosthetic surgery- Alveoloplas ty,575,500
+204,Pre-prosthetic surgery - ridge augm entation,1500,1275
+205,Root canal Treatment(RCT) Anterior teeth,575,500
+206,Root canal Treatment(RCT) Posterior teeth,805,700
+207,Apicoectomy- Single root,575,500
+208,Apicoectomy-Multiple roots,748,650
+209,Metal Crown-per unit,575,500
+210,Metal crown with Acrylic facing per unit,805,700
+211,Complete single dentur e-metal based,1725,1500
+212,Complete dentur e- acrylic based per arch,1093,950
+213,Removable par tial denture-Metal bas ed-upto 3 teeth,805,700
+214,Removable partial denture-Metal bas ed-more than 3 teeth,1035,900
+215,Removable partial denture-Acrylic based-upto 3 teeth,575,500
+216,Removable partial denture-Acrylic based-more than 3 teeth,310,264
+217,Amalgum restoration-per tooth,230,200
+218,Composite Restoration-per tooth-anterior tooth,288,250
+219,Glas Ionom er-per tooth,230,200
+220,Scaling & polis hing,345,300
+221,Removable Or thodontics appliance- per Arch,805,700
+222,Fixed Orhtodontics-per Arch,1380,1200
+223,Space maintainers-Fixed,575,500
+224,Habit breaking applianc es-removable,920,800
+225,Habit breaking applianc es-Fixed,1725,1500
+226,Expansion plate,1150,1000
+227,Feeding applianc e for cleft palate,1725,1500
+228,Maxillo-facial prosthesis (nasal/auricular/orbital/facial lost part),4025,3500
+229,Functional orthodentic appliances,3450,3000
+230,Obturator (Maxillo-facial),1725,1500
+231,Occlusal night guar d(splint),920,800
+232,Pure Tone Audiogr am,173,150
+233,Impedence with stepedeal r eflex,230,200
+234,"SISI, Tone Decay",135,115
+235,Multiple hear ing assessment test to Adults,115,100
+236,Speech Discrimination Score,90,78
+237,Speech Assessment,138,120
+238,Speech therapy per session of 30-40 minutes,131,114
+239,Cold Calor ie Test for Vestibular function,173,150
+240,Removal of foreign body From Nose,345,300
+241,Removal of foreign body From Ear,230,200
+242,Syringing (Ear),166,144
+243,Polyp removal under LA,575,500
+244,Polyp removal under GA,1150,1000
+245,Peritonsillar abscess drainage under LA,1449,1260
+246,Myringoplasty,6440,5600
+247,Staepedec tomy,9200,8000
+248,Myringotom y with Grommet insertion,4600,4000
+249,Tympanotom y,8625,7500
+250,Tympanoplasty,13800,12000
+251,Mastoidectomy,14950,13000
+252,Otoplasty,16100,14000
+253,Labyrinthectomy,13800,12000
+254,Skull Base surgery,26450,23000
+255,Facial Nerve Decompression,17250,15000
+256,Septoplas ty,5750,5000
+257,Submucous Resection,7314,6360
+258,Septo-rhinoplasty,16100,14000
+259,Rhinoplas ty- Non-cosmetic,11500,10000
+260,Fracture Reduc tion,5750,5000
+261,Intra Nasal Diathermy,1150,1000
+262,Turbinectomy,5750,5000
+263,Endoscopic DCR,13248,11520
+264,Endoscopic Surgery,13800,12000
+265,Septal Perf. Repair,13800,12000
+266,Antrum Puncture,966,840
+267,Lateral Rhinotom y,1150,1000
+268,Cranio-facial resection,26450,23000
+269,Caldwell Luc Surgery,10626,9240
+270,Angiofibroma Excision,18400,16000
+271,Endoscopic Hypophysectomy,23000,20000
+272,Endoscopic Optic Nerve Decompression,32775,28500
+273,Decompression of Orbit,26450,23000
+274,Punch/W edge biops y,674,586
+275,Tonsillectomy,6900,6000
+276,Uvulo-palatoplas ty,17250,15000
+277,FESS for antrochoanal polyp,5750,5000
+278,FESS for ethmoidal polyp,5750,5000
+279,Polyp removal ear,748,650
+280,Polyp removal Nose(Septal polyp),748,650
+281,Mastoidectomy plus Ossciculoplasty including TORP or PORP,2415,2100
+282,Endolymphatic sac decompression,2875,2500
+283,Diagnostic nasal endoscopy under GA,2300,2000
+284,Yonges operation for Atrophic rhinitis,6900,6000
+285,Vidian neur ectomy for vasomotor Rhinitis,10350,9000
+286,Nasal Packing-anterior,345,300
+287,Nasal Packing-posterior,805,700
+288,Ranula Ex cision,6843,5950
+289,Tongue T ie excision,1725,1500
+290,Sub Mandibular Duct Lithotom y,275,234
+291,Adenoidec tomy,6486,5640
+292,Palatophar yngoplasty,8165,7100
+293,Cleft Palate repair,13225,11500
+294,Pharyngoplasty,17193,14950
+295,Styloidectomy,9200,8000
+296,Direct laryngoscopy including Biops y under GA,5175,4500
+297,oesophagoscopy/foreign body removal from,1858,1616
+298,Bronchoscopy with F.B.removal,2804,2438
+299,Ear Lobe Repair one side,566,492
+300,Excision of Pinna for Growth (Squam ous/Basal/ Injuries) Skin Only,4025,3500
+301,Excision of Pinna for Growth (Squam ous/Basal/ Injuries) Skin and Car tilage,5290,4600
+302,Partial Amputation of Pinna,5750,5000
+303,Total Am putation of Pinna,7130,6200
+304,Total Am putation & Ex cision of External Auditor y Meatus,1725,1500
+305,Excision of Cystic Hygroma,5175,4500
+306,Excision of Cystic Hygroma Extensive,7452,6480
+307,Excision of Branchial Cyst,10350,9000
+308,Excision of Branchial Sinus,10350,9000
+309,Excision of Pharyngeal Diver ticulum,10580,9200
+310,Excision of Carotid Body-Tumours,13500,11475
+311,Operation for Cervical Rib,13500,11475
+312,Block Dissection of Cervical Lymph Nodes,15500,13175
+313,Pharyngectomy & Reconstruction,15500,13175
+314,Operation for Carcinoma Lip - W edge-Excision,8050,7000
+315,Operation for Carcinoma Lip - Vermilionectomy,8050,7000
+316,Operation for Carcinoma Lip - W edge Excision and Vermilonectomy,9660,8400
+317,Estlander Operation,7475,6500
+318,Abbe Oper ation,11500,10000
+319,Cheek Advancement,9775,8500
+320,Excision of the Max illa,19320,16800
+321,Excision of mandible-segmental,15525,13500
+322,Mandibulec tomy,21074,18325
+323,Partial Glossectomy,5520,4800
+324,Hemiglossectomy,11500,10000
+325,Total Glos sectomy,22885,19900
+326,Commondo Oper ation,23000,20000
+327,Parotidectomy - Superficial,17250,15000
+328,Parotidectomy - Total,12075,10500
+329,Parotidectomy - Radical,19550,17000
+330,Repair of Parotid Duct,11500,10000
+331,Removal of Submandibular Salivary gland,8625,7500
+332,Hemithyroidectomy,12650,11000
+333,Partial Thyroidectomy (lobectomy),11500,10000
+334,Subtotal T hyroidectomy,13053,11350
+335,Total Thyroidectomy,19550,17000
+336,Resection Enucleation of thyroid Adenom a,10580,9200
+337,Total Thyroidectomy and Block Dissection,26450,23000
+338,Excision of Lingual T hyroid,17270,14680
+339,Excision of Thyroglossal Cyst/Fistula,13225,11500
+340,Excision of Parathyroid Adenom a/Carcinoma,21275,18500
+341,Laryngectomy,31050,27000
+342,Laryngo Pharyngectomy,17825,15500
+343,Hyoid Suspension,10350,9000
+344,Genioplas ty,19550,17000
+345,Direct Laryngoscopy including biops y under GA,5175,4500
+346,Phonosurgery,13800,12000
+347,Fibroptic examination of Larynx under LA,1725,1500
+348,Microlaryngeal Surgery,10350,9000
+349,Laryngofissure,17250,15000
+350,Tracheal Stenos is Excision,19780,17200
+351,Excisional Biopsies,5750,5000
+352,Benign T umour Excisions,11270,9800
+353,Temporal Bone s ubtotal resection,20700,18000
+354,Modified Radic al Neck Dissection,25300,22000
+355,Carotid Body Excision,28750,25000
+356,Total Laryngectomy,39192,34080
+357,Flap Rec onstructive Surgery,41400,36000
+358,Parapharyngeal Tumour Excision,39330,34200
+359,Breast,28750,25000
+360,Drainage of abscess,6325,5500
+361,Excision of lumps,9775,8500
+362,Local mastectomy-simple,12650,11000
+363,Radical mastectomy-formal or modified.,28750,25000
+364,Excision of mammary fistula,15525,13500
+365,Segmental resection of breast,16100,14000
+366,Suturing of small wounds,269,234
+367,Secondary suture of wounds,288,250
+368,Debridement of wounds,414,360
+369,Removal Of Foreign Bodies,288,250
+370,Excision Cervical Lymph Node,1725,1500
+371,Excision Axillary Lymph Node,2277,1980
+372,Excision of Inguinal Lymph Node,2277,1980
+373,Excision Biopsy of Ulcers,1500,1275
+374,Excision Biopsy of Superficial Lumps,3220,2800
+375,Incision Biopsy of Growths/Ulcers,1500,1275
+376,Trucut Needle Biops y,1725,1500
+377,Percutaneous Kidney Biopsy,1500,1275
+378,Marrow Biopsy (Open),1725,1275
+379,Muscle Biopsy,1500,1275
+380,Scalene Node Biops y,1323,1150
+381,Excision of Sebaceous Cysts,1242,1080
+382,Excision of Superficial Lipom a,1932,1680
+383,Excision of Superficial Neurofibroma,2645,2300
+384,Excision of Dermoid Cysts,2277,1980
+385,Haem orrhoidectomy,2645,2300
+386,Stapler haemorrhoidectomy,4025,3500
+387,keloid excision,1150,1000
+388,Vericose vein surgery;Tendelenbur g operation with s uturing or ligation.,8625,7500
+389,Atresia of Oesophagus and Tracheo Oes ophageal Fis tula,28750,25000
+390,Operations for Replacement of Oesophagus by Colon,25300,22000
+391,Oesophagectomy for Carcinoma Easophagus,25300,22000
+392,Oesophageal Intubation ( Mausseau Barbin Tube),11500,10000
+393,Achalasia Cardia Transthoracic,12650,11000
+394,Achalasia Cardia Abdom inal,14950,13000
+395,Oesophago Gas trectomy for mid 1/3 lesion,24495,21300
+396,Heller’s Operation,19780,17200
+397,Colon-Inter position or Replacement of Oesophagus,22540,19600
+398,Oesophago Gas trectomy – Lower Corringers procedure,21390,18600
+399,Gastroscopy,1518,1320
+400,Gastric & Duodenal Biops y (Endoscopic),2243,1950
+401,Pyloromyotomy,3105,2700
+402,Gastrostomy,8625,7500
+403,Simple Closure of Perforated peptic Ulcer,9775,8500
+404,Vagotom y Pyleroplasty / Gastro Jejunostomy,13800,12000
+405,Duodenoj ejunostomy,20700,18000
+406,Partial/Subtotal Gas trectomy for Carcinoma,23000,20000
+407,Partial/Subtotal Gas trectomy for Ulcer,22425,19500
+408,Operation for Bleeding Peptic Ulcer,20976,18240
+409,Gastrojejunostomy & Vagotom y,19780,17200
+410,Operation for Gastrojejunal Ulcer,19780,17200
+411,Total Gas trectomy for Cancer,22368,19450
+412,Highly Selective Vagotom y,18630,16200
+413,Selective Vagotom y & Drainage,18630,16200
+414,Congenital Diaphr agmatic Hernia,18975,16500
+415,Hiatus Hernia Repair - Abdom inal,14490,12600
+416,Hiatus Hernia Repair - Transthoracic,16100,14000
+417,Exploratory Laparotomy,12650,11000
+418,Epigastric Hernia Repair,11385,9900
+419,Umbilical Hernia Repair,11385,9900
+420,Ventral /incisional Hernia Repair,10293,8950
+421,Inguinal Her nia Herniorraphy,14835,12900
+422,Inguinal Her nia - Hernioplasty,17135,14900
+423,Femoral Hernia Repair,18285,15900
+424,"Rare Hernias Repair (Spigalion, Obtur ator, Lumbar, Sciatic)",22885,19900
+425,Splenectomy - For Trauma,18975,16500
+426,Splenectomy - For Hypersplenism,14490,12600
+427,Splenorenal Anas tomosis,23000,20000
+428,Portocaval Anastomosis,30935,26900
+429,Direct Operation on Oes ophagus for Portal Hypertension,22885,19900
+430,Mesentericocaval Anastomosis,28750,25000
+431,W arren Shunt,28750,25000
+432,Pancerato Duodenec tomy,21735,18900
+433,By Pass Procedure for Inoperable Carcinoma of Pancreas,23000,20000
+434,Cystojejunostomy or Cystogastrostomy,14490,12600
+435,Cholecystectomy,10293,8950
+436,Cholecystectomy & Exploration of CBD,13800,12000
+437,Repair of CBD,17250,15000
+438,Operation for Hydatid Cyst of Liver,11903,10350
+439,Cholecystostomy,10293,8950
+440,Hepatic Resections (Lobectomy /Hepatec tomy),14375,12500
+441,Operation on Adr enal Glands - Bilateral,26105,22700
+442,Operation on Adr enal Glands - Unilateral for Tumour,13800,12000
+443,Appendicectomy,8108,7050
+444,Appendicular Abscess – Drainage,9775,8500
+445,Mesenteric Cyst- Excision,11040,9600
+446,Peritonioscopy/Laparoscopy,4600,4000
+447,Jejunostomy,5750,5000
+448,Ileostomy,15410,13400
+449,Resection & Anas tomosis of Small Intestine,20700,18000
+450,Duodenal Diver ticulum,18400,16000
+451,Operation for Intestinal Obs truction,10350,9000
+452,Operation for Intestinal perforation,7763,6750
+453,Benign T umours of Small Intestine,19550,17000
+454,Excision of Small Intestine Fistual,19550,17000
+455,Operations for Haem orrhage of Small Intestines,19550,17000
+456,Operations of the Duplic ation of the Intes tines,17825,15500
+457,Operations for Recurrent Intestinal Obs truction (Noble Plication & Other Operations for Adhesions),23000,20000
+458,Ilieosigmoidostomy,16790,14600
+459,Ilieotransverse Colostomy,16790,14600
+460,Caecostomy,3903,3394
+461,Loop Colos tomy Transverse Sigmoid,13110,11400
+462,Terminal Colostomy,17250,15000
+463,Closure of Colostomy,17480,15200
+464,Right Hem i-Colectomy,13800,12000
+465,Left Hem i-Colectomy,13800,12000
+466,Total Colec tomy,17250,15000
+467,Operations for Volvulus of Large Bowel,24921,21670
+468,Operations for Sigmoid Diverticulitis,18630,16200
+469,Fissure in Ano with inter nal sphinctrectomy with fissurectomy.,5750,5000
+470,Fissure in Ano - Fissurectomy,13800,12000
+471,Rectal Polyp-Excision,5658,4920
+472,Operation of Haem orrhoids -Lords procedure,1580,1343
+473,Fistula in Ano - High Fis tulectomy,16781,14592
+474,Fistula in Ano - Low Fistulectomy,9867,8580
+475,Prolapse Rectum - Theirch W iring,10350,9000
+476,Prolapse Rectum - Rectopexy,5750,5000
+477,Prolapse Rectum - Grahams Operation,18400,16000
+478,Operations for Hirschsprungs Disease,14260,12400
+479,Excision of Pilonidal Sinus,11500,10000
+480,Abdom ino-Perineal Excision of Rectum,21850,19000
+481,Anterior Resection of rectum,21850,19000
+482,Pull Through Abdom inal Resection,17710,15400
+483,Operations for Neuroblastoma,14600,12410
+484,Coronary Care with Cardiac Monitoring including ECG & Diet,1250,1063
+485,Compressed air / piped ox ygen,58,50
+486,Ventilator charges,560,476
+487,Paediatric care for New born per day,190,162
+488,Incubator charges (Per day),345,300
+489,Neonatal ICU c harges (Per day),400,340
+490,Resuscitation,184,160
+491,Exchange T ransfusion,265,230
+492,Pneupack ventilator in Nursery (Per day),575,500
+493,ASD Clos ure,53000,45050
+494,VSD with gr aft,53000,45050
+495,TOF/TAPVC/T CPC/REV/VSOV r epair,130000,110500
+496,V.D.Glenn/Lef t atrium myxoma,100000,85000
+497,Senning/ASO with gr aft,125000,106250
+498,DSO,16100,14000
+499,AV Canal r epair,149500,130000
+500,Fonten,161000,140000
+501,Conduit repair,169050,147000
+502,CABG,130000,110500
+503,CABG + IABP,169050,147000
+504,CABG +I valve.,149500,130000
+505,Asending aor ta replacement,165000,140250
+506,DVR,130000,110500
+507,MVR/AVR,53000,45050
+508,MV repair + AV repair,106000,90100
+509,Aorta femoral bypass,56810,49400
+510,B.T Shunt/Coar actation,51980,45200
+511,P.A.Banding s eptostomy,11500,10000
+512,Pericardictomy,42320,36800
+513,CMV/PDA,51980,45200
+514,CABG without by pass.,126500,110000
+515,Gunshot injury,51980,45200
+516,Heart transplant,,
+517,Balloon coronary angioplas ty/PTCA,80500,70000
+518,Intra coronary stenting,94116,81840
+519,Direct stenting,82800,72000
+520,Directional ather ectomy,59800,52000
+521,Rotablation,50000,42500
+522,balloon valvotom y/PTMC,10500,8925
+523,CART,10350,9000
+524,CATH,10350,9000
+525,Coaractation dilatation,12650,11000
+526,Permanent pac emaker implantation-VVI,13800,12000
+527,Permanent pac emaker implantation- DDD,19320,16800
+528,Permanent pac emaker implantation Biventr icular,34500,30000
+529,AICD im plantation,28750,25000
+530,Combo device implantation,48300,42000
+531,Electrophysiological studies.,11500,10000
+532,Endom yocardial biopsy,11500,10000
+533,IABP,8000,6800
+534,Intra vascular coils one coil( additional c oil charges extra),40250,35000
+535,R.F.ablation,30000,25500
+536,Septostomy,20000,17000
+537,AVBD/PVBD,17250,15000
+538,Digital substraction angiogr aphy-Pheripheral artery,11500,10000
+539,Digital substraction angiogr aphy- venogram,11500,10000
+540,Venous DSA,11500,10000
+541,C.T Guided biops y,1265,1100
+542,Sinogram,863,750
+543,Cine -Barium,2070,1800
+544,CT guided PT A,2300,2000
+545,DSA + PT A,13800,12000
+546,Embolisation,28750,25000
+547,IVUS,33960,28866
+548,Vascular stent,42000,35700
+549,Aortic stent graft for aortic aneurysm,86250,75000
+550,IVC Filter,16500,14025
+551,ASD/VSD/PDA c losure device,36225,31500
+552,ECG,0,0
+553,TMT,0,0
+554,echocardiography echo adultHolter analysis,1150,1000
+555,TEE(Transoesophageal ec ho,1725,1500
+556,Stress Echo -erercise,1725,1500
+557,Stress Echo- Dobutam ine,2300,2000
+558,Stress Thallium - exrercise,2500,2125
+559,Stress Thallium - pharmacological,3000,2550
+560,Coronary angiography,11500,10000
+561,CT coronary angiography,7245,6300
+562,Cardiac CT scan,2325,1976
+563,Cardiac MRI,2500,2125
+564,MR angiogr aphy.,5635,4900
+565,Normal delivery or with Episiotomy & P. repair,8625,7500
+566,vaccum delivery,8625,7500
+567,Low Forceps,9200,8000
+568,Low midcavity forceps,9200,8000
+569,Cesarean Section,17250,15000
+570,Cesarean Hysterectomy,18975,16500
+571,"Rupture Uterus, closure & repair with Tubal Ligation",17250,15000
+572,"Perforation of Uterus after D/E ,Lapar otomy & Closure",13800,12000
+573,Laparotomy for Ectopic Rupture,13800,12000
+574,Laparotomy-peritonitis Lavage and Dr ainage,11500,10000
+575,Laparotomy-failed laparoscopy to explore,5750,5000
+576,Salphingec tomy,10350,9000
+577,Salphingo-Oophorectomy,13800,12000
+578,Ovarean Cystectomy-laparoscopic.,13800,12000
+579,Ovarean Cystectomy -laparotomy.,13800,12000
+580,Ophorectomy-laparoscopic,9200,8000
+581,Oophorectomy-laparotomy,9200,8000
+582,Broad Ligm ent Haem otoma Drainage,6900,6000
+583,Exploration of perineal Haem atoma & Resuturing of Episiotomy,8280,7200
+584,Exploration of abdom inal Haem atoma (after laparotomy + LUCS),8050,7000
+585,Internal podalic version and br eech extraction,4140,3600
+586,Manual Rem oval of Placenta,3450,3000
+587,3rd stage Com plication from extra-institutional deliver y etc,4140,3600
+588,Examination under anaesthesia,1150,1000
+589,Burst-abdom en Repair,10350,9000
+590,Gaping Par eneal W ound Sec ondary Suturing,1656,1440
+591,Gaping abdom inal wound Sec ondary Suturing,3450,3000
+592,Complete perineal tear-repair,2128,1850
+593,Exploration of PPH-tear repair,3565,3100
+594,Destructive Operation,9200,8000
+595,"Suction evacuation ves icular mole, Missed abortion D/E",5175,4500
+596,Colpotom y-drainage P/V needling EUA,3450,3000
+597,"Repair of post-coital tear, perineal injury",3508,3050
+598,Excision of urethral caruncle,3450,3000
+599,"Shirodhkar, Mc. Donalds stich",3220,2800
+600,Abdom inal Hysterectomy,17250,15000
+601,Vaginal Hysterectomy,17250,15000
+602,Myomectomy -laparotomy,14375,12500
+603,Myomectomy -laparoscopic,6325,5500
+604,Vaginoplas ty,14950,13000
+605,Laparotomy for Ectopic Pregnancy,6325,5500
+606,Vulvectomy -Simple,9200,8000
+607,Vulvectomy-Radical,9200,8000
+608,RVF Repair,18975,16500
+609,Manchester Operations,15525,13500
+610,Perineorrhaphy,14950,13000
+611,Colporrhaphy with mesh.,16388,14250
+612,Colporrhaphy without m esh.,13800,12000
+613,Enterocoel repair,11500,10000
+614,Shirodkar’s sling Operation or other sling operations for prolapse uterus,3450,3000
+615,Laparoscopic sling operations for prolapse uterus,3450,3000
+616,Diagnostic Curettage,2484,2160
+617,Fractional Curettage,2760,2400
+618,D & C and Cer vical Biopsy,3163,2750
+619,Polypectomy,1518,1320
+620,Other-Minor Operation Endom etrial,2300,2000
+621,Excision Vaginal Cyst/Burtholin Cyst,3450,3000
+622,Excision Vaginal Septum,4600,4000
+623,Laparoscopy -Diagnostic with chromopertubation,4025,3500
+624,Laparoscopy Sterilisation,3450,3000
+625,Laparoscopy Operative,5750,5000
+626,Laparoscopy LAVH,10350,9000
+627,Total laparscopic hysterectomy,25243,21950
+628,Drilling of Overy,6325,5500
+629,Laparascopic treatment of Ectopic pregnancy-salpingectomy,9775,8500
+630,Laparotomy treatment of Ectopic pregnancy.,14605,12700
+631,Conisation of cervix,4025,3500
+632,Trachleorraphy of cervix for early CA cervix,7130,6200
+633,Hysteroscopic cannulation,2875,2500
+634,Laparotomy recannulation of Fellopian tubes -(Tubuloplasty),17250,15000
+635,Laparoscopic recannulation of Fellopian tubes -(Tubuloplasty),22425,19500
+636,Colposcopy,980,833
+637,LEETZ(Large Loop Ex cision of Transformation Zone),5980,5200
+638,Loop Elec tro Surgical procedures.,5980,5200
+639,Chorionic Villi sampling,1208,1050
+640,Interventional Ultr asonography,1000,850
+641,Amneocentosis,1035,900
+642,Karyotyping,0,0
+643,Hysteroscopic endom etrial ablation,15525,13500
+644,Thermal ballon ablation.,11500,10000
+645,Ultrasonographic myolysis,10293,8950
+646,Laparoscopic cystectomy,5750,5000
+647,Intra Uterine Insemination,920,800
+648,ICSI,11500,10000
+649,Anti Retroviral Therapy.,17078,14850
+650,Laparotomy abdom inal scaro-colpopexy,23000,20000
+651,Laparotomy Vault suspension,16675,14500
+652,Laparscopic abdom inal scaro-colpopexy,24035,20900
+653,Laparoscopic Vault suspension,20125,17500
+654,Laparotomy radical Lymphedenec tomy,23000,20000
+655,Laparoscopic radical Lymphedenec tomy,27600,24000
+656,Pap smear,0,0
+657,Endom etrial aspiration cytology,575,500
+658,"Transvaginal sonography (TVS for Follicular monitioring,aspiration)",460,400
+659,laparoscopic treatment for stress incontinence,5750,5000
+660,Transvaginal tubes for Stress incontinence,17595,15300
+661,trans-obturator tubes for Stress incontinence,11500,10000
+662,Interventional radiographic arterial embolisation,18343,15950
+663,Diagnosticcystoscopy,2875,2500
+664,Staging lapar otomy surgery for CA Over y,6325,5500
+665,Internal Iliac ligation,3393,2950
+666,stepwise devascularisation,9200,8000
+667,Assisted breech delivery,10925,9500
+668,Cordocentesis,2990,2600
+669,Intra-uterine fetal blood tr ansfusion,23000,20000
+670,Hysteroscopy TCRE,11500,10000
+671,Hysteroscopy Removal of IUCD,8050,7000
+672,Hysteroscopy Removal of Septum,11385,9900
+673,Hysteroscopy Diagnostic,7475,6500
+674,W erthimas Hystrectomy for Cancer cervix,26450,23000
+675,Sterilisation Post ertum,4140,3600
+676,Sterilisation Intravaginal,4025,3500
+677,Abortion- D & C,2300,2000
+678,Abortion- Evacuation,3036,2640
+679,MTP- 1st Trimester,3036,2640
+680,MTP - 2nd Trimester,4370,3800
+681,Triple test,1656,1440
+682,Quadriple test,2530,2200
+683,Biophysical score,644,560
+684,Fetal nuec hal translucency,345,300
+685,HPV testing,575,500
+686,BLCG,460,400
+687,Partial Nephrectomy -open,16215,14100
+688,Partial Nephrectomy-laproscopic/endoscopic,14490,12600
+689,Nephrolithomy -open,16100,14000
+690,Nephrolithomy -laproscopic/endoscopic,16100,14000
+691,Pyelolithotom y-open,14950,13000
+692,Pyelolithotom y -laproscopic/endoscopic,10580,9200
+693,Operations for Hydronephrosis -pyeloplasty open,18400,16000
+694,Operations for Hydronephrosis -pyeloplasty Lap/endos copic,20700,18000
+695,Operations for Hydronephrosis Endoplyelotomy antegrade,20125,17500
+696,Operations for Hydronephrosis Endoplyelotomy retrograde,20269,17625
+697,Operations for Hydronephrosis -ureterocalicostomy,18400,16000
+698,Operations for Hydronephrosis-Ileal ureter,20269,17625
+699,Open Dr ainage of Perinephric Abscess,9200,8000
+700,Percutaneous Drainage of Perinephric Abscess -Ultrasound guided,5750,5000
+701,Cavernostomy,11500,10000
+702,Operations for Cyst of the Kidney -open,11960,10400
+703,Operations for Cyst of the Kidney -Lap/endos copic,14030,12200
+704,Ureterolithotom y -open,13386,11640
+705,Ureterolithotom y-Lap/Endos copic,10580,9200
+706,Nephroureterectomy open,13386,11640
+707,Nephroureterectomy -Lap/Endos copic,16100,14000
+708,Operations for Ureter for -Double Ur eters,19550,17000
+709,Operations for Ureter -for Ectopia of Single Ureter,20700,18000
+710,Operations for Vesico- ureteric Reflux -Open,20700,18000
+711,Operations for Vesico- ureteric Reflux-Lap/Endos copic,20700,18000
+712,Operations for Vesico- ureteric Reflux-with bulking agents,20700,18000
+713,Ureterostomy - Cutaneous,13800,12000
+714,Uretero-Colic anastomosis,17250,15000
+715,Formation of an Ileal Conduit,17250,15000
+716,Ureteric Catheter isation,690,600
+717,Biopsy of Bladder (Cystoscopic),2300,2000
+718,Diathermy Destruction of Bladder Neoplasm,8625,7500
+719,Cysto-Litholapex y,10925,9500
+720,Operations for Injuries of the Bladder,11500,10000
+721,Suprapubic Drainage (Cystostomy/vesicostomy),6900,6000
+722,Simple Cystectomy,17250,15000
+723,Diverticulectomy -open,17250,15000
+724,Diverticulectomy- Lap/Endos copic,18400,16000
+725,Diverticulectomy -Endoscopic incision of neck,1725,1500
+726,Augmentation Cystoplasty,6670,5800
+727,Operations for Extrophy of the Bladder - Single stage repair,22301,19392
+728,Operations for Extrophy of the Bladder - Multistage repair,20815,18100
+729,Operations for Extrophy of the Bladder - simple cystectomy with urinary diversion,23000,20000
+730,Repair of Ureterocoel -Open,13800,12000
+731,Repair of Ureterocoel -Lap/Endos copic,14375,12500
+732,Repair of Ureterocoel -Endoscopic incision,13570,11800
+733,Open Supr apubic Prostatectomy,20700,18000
+734,Open Retr opubic Prostatectomy,20125,17500
+735,Transurethral Resection of Prostate (TURP),18630,16200
+736,Urethroscopy/ Cystopanendos copy,4600,4000
+737,Internal urethrotom -optical,5750,5000
+738,Internal urethrotomy -Core through urethroplasty,11040,9600
+739,Urethral Reconstruction -End to end ans atamosis,3450,3000
+740,Urethral Reconstruction - substitution urethroplasty,19550,17000
+741,Posterior Urethal Valvu f ulguration.,11270,9800
+742,Operations for Incontinence of Urine - Male -Open,17250,15000
+743,Operations for Incontinence of Urine - Male -Sling,18400,16000
+744,Operations for Incontinence of Urine - Male-Bulking agent,19435,16900
+745,Operations for Incontinence of Urine - Female -Open,17250,15000
+746,Operations for Incontinence of Urine - Female-Sling,18400,16000
+747,Operations for Incontinence of Urine - Female-Bulking agent,19435,16900
+748,Reduction of Paraphimosis,1725,1500
+749,Circumcision,4025,3500
+750,Meatotom y,2346,2040
+751,Meatoplas ty,3220,2800
+752,Operations for Hypospadias + Chordee Correction,1208,1050
+753,Operations for Hypospadias - Second Stage,17250,15000
+754,Operations for Hypospadias - One Stage Repair,12075,10500
+755,Operations for Crippled Hypospadias,12593,10950
+756,Operations for Epispadias _primary repair,12593,10950
+757,Operations for Epispadias-crippled epispaedias,11385,9900
+758,Partial Amputation of the Penis,10764,9360
+759,Total am putation of the Penis,16100,14000
+760,Orchidectomy-Simple,9775,8500
+761,Orchidectomy -Radical,12075,10500
+762,Orchidectomy -Post orchidectomy retroperitoneal lynpy node dissection.,15985,13900
+763,Epididymectomy,11270,9800
+764,Adreneclectomy Unilateral/Bilateral for Tumour/For Carcinoma- Open,25300,22000
+765,Adreneclectomy Unilateral/Bilateral for Tumour/For Carcinoma -Lap/Endos copic,14375,12500
+766,Operations for Hydrocele - Unilateral,5865,5100
+767,Operations for Hydrocele - Bilateral,8556,7440
+768,Vasectomy (Should be f ree for Family W elfare),0,0
+769,Operation for Torsion of Testis,11500,10000
+770,Micro-surgical Vasovasostomy /Vaso epidedymal ansatamosis.,11040,9600
+771,Operations for Varicocele Palom o’s Unilateral-Microsurgical,7705,6700
+772,Operations for Varicocele Palom o’s Unilateral - Lap/Endos copic,9200,8000
+773,Operations for Varicocele Palom o’s Bilateral --Microsurgical,12650,11000
+774,Operations for Varicocele Palom o’s Bilateral - Lap/Endos copic,14950,13000
+775,Block Dissection of Inguinal Nodes - One Side,6325,5500
+776,Block Dissection of Inguinal Nodes - Both Sides,23000,20000
+777,Excision of Filarial Scrotum,11500,10000
+778,Emergency Dialysis Femoral Puncture,932,810
+779,Emergency Dialysis Subclavian Punc ture,1162,1010
+780,Fistula/Shunt,5575,4848
+781,Dialysis Femoral Catheter isation Bilater al,1150,1000
+782,Haem o Dialysis-For sero negative c ases,1208,1050
+783,Haem o Dialysis -FOR SERO POSIT IVE CASES,1466,1275
+784,Double Lum en Sub Clavian Catheter,1932,1680
+785,Continuous Arterio Venus Haem ofiltration,1725,1500
+786,Subclavian Access,1725,1500
+787,Femoral Access,886,770
+788,Plasma Exchange,2875,2500
+789,Donor Nephrectomy -Open,28750,25000
+790,Donor Nephrectomy-Lap/Endos copic,46000,40000
+791,Renal T ransplantation,115000,100000
+792,Lymphocoel Post transplant,5750,5000
+793,Transplant Nephr ectomy,23000,20000
+794,Bilateral Nephrouretectomy (Native),21850,19000
+795,Vascular Prosthetic Graft,27600,24000
+796,CAPD,2415,2100
+797,PCNL - Unilateral,21850,19000
+798,PCNL - Bilateral,28750,25000
+799,Endoscopic Bulking agent Inj ect,4600,4000
+800,Testicular Biopsy,1955,1700
+801,Gil-Verner’s Extended Pyelolithotom y,3500,2975
+802,Radical Nephrectomy Nephrectomy -Open,17250,15000
+803,Radical Nephrectomy Nephrectomy -Lap/Endos copic,20700,18000
+804,Radical Nephrectomy plus IV thrombus,23000,20000
+805,Radical Nephrectomy plus IV thrombus plus cardiac bypass.,23000,20000
+806,Vasico Vaginal Fis tula Repair,17250,15000
+807,Radical Cystectomy -Ileal conduit,24150,21000
+808,Radical Cystectomy - continent diver sion.,16560,14400
+809,Nephrectomy Simple -Open,10074,8760
+810,Nephrectomy Simple-ap/Endos copic,11500,10000
+811,Nephrostomy -Open,10074,8760
+812,Nephrostomy -Lap/Endos copic,12593,10950
+813,"Ureteric Reimplant for Megaureter,Vesicoureteric reflex,uterocoel",10494,9125
+814,Ureteric Reimplant,10494,9125
+815,Partial Cystectomy,13800,12000
+816,TURP & T UR Bladder Tumour,17250,15000
+817,TURP with Cystolithotripsy,19090,16600
+818,Closure of Urethral Fistula,11178,9720
+819,Orchidopexy - Unilateral -Open,9867,8580
+820,Orchidopexy - Unilateral- Lap/Endos copic,12334,10725
+821,Orchidopexy - Bilateral -Open,12282,10680
+822,Orchidopexy - Bilateral -Lap/Endos copic,15353,13350
+823,Cystolithotom y -Suprapubic,9775,8500
+824,Endoscopic Removal of Stone in Bladder,3450,3000
+825,Resection Bladder Neck Endoscopic /Bladden nec kincision/transurethral incision on prostrate,10925,9500
+826,Ureteroscopic Surgery,10350,9000
+827,Urethroplasty 1st Stage,10925,9500
+828,Exploratory Scrototom y,8556,7440
+829,Perineal Urethrostomy,4715,4100
+830,Dilatation of Stricture Urethra under G.A.,2358,2050
+831,Dilatation of Stricture Urethra under LA,1725,1500
+832,Retroperitoneoscopy Nephrectomy,33350,29000
+833,Retroperitoneoscopy partial Nephrectomy,13225,11500
+834,Retroperitoneoscopic nephrolithotom y,12075,10500
+835,Retroperitoneoscopic pyelolithotom y,12650,11000
+836,Retroperitoneoscopic operation for Hyderonephrosis,12305,10700
+837,Retroperitoneoscopic surgery for Renal c yst,9775,8500
+838,Retroperitoneoscopic ureterolithotom y,11500,10000
+839,Retroperitoneoscopic Nephroureteroectomy,13225,11500
+840,Laproscopy aassisted orchidopexy,8625,7500
+841,Laproscopic operation for varicocele,7533,6550
+842,Lithotripsy Extra corporeal shock wave.,23000,20000
+843,Uroflow Study (Micturometry),460,400
+844,Urodynamic Study (Cystometry),552,480
+845,Cystoscopy with Retrograde Catheter -Unilateral /RGP,2803,2437
+846,Cystoscopy with Retrograde Catheter - Bilateral /RGP,5589,4860
+847,Cystoscopy with Bladder Biopsy,3381,2940
+848,Voiding-cysto-urethrogram and retrograde urethrogram,414,360
+849,Radical prostratectomy-Open,17825,15500
+850,Radical prostratectomy-Laproscopic,20125,17500
+851,Radical prostratectomy- Robotic,20125,17500
+852,Hilioum Laser Prostrate surgery/ Optical Internal urethrotomy/Core through/Stone lithotr ypsy/Bladder tumour,17250,15000
+853,High Intens ity Focus Ultrasound (HIFU) Robotic for Carcinoma prostrate and r enal cell carcinoma,4600,4000
+854,Prosthetic surgery for urinary incontinence,2300,2000
+855,Ultra sound guided Biops y,575,500
+856,Craniotom y and Evac uation of Haem atoma -Subdural,50715,44100
+857,Craniotom y and Evac uation of Haem atoma -Extradural,50715,44100
+858,Evacuation /Ex cision of Brain Abscess by craniotom y,54395,47300
+859,"Excision of Lobe (Frontal, Temporal, Cerebellum etc.)",54395,47300
+860,Excision of Brain Tumours -Supratentotial,54395,47300
+861,Excision of Brain Tumours -Infratentorial,54395,47300
+862,Surgery of spinal Cord Tumours,54395,47300
+863,Ventriculoatrial /Ventriculoperitoneal Shunt,27600,24000
+864,Twist Drill Craniostomy,5750,5000
+865,Subdural Tapping,2456,2136
+866,Ventricular Tapping,2967,2580
+867,Abscess Tapping,2967,2580
+868,Placement of ICP Monitor -,2875,2500
+869,Urokinase Therepy for ICH -,1380,1200
+870,Skull Traction Application,3100,2635
+871,Lumber Pressure Monitoring,5750,5000
+872,Vascular Malformations,23000,20000
+873,Theco-peritoneal Shunt,12650,11000
+874,Meningo Enc ephalocoeleexcision and repair,34500,30000
+875,Meningom yelocoel,34500,30000
+876,C.S.F. Rhinor rhaea,28750,25000
+877,Cranioplasty,24150,21000
+878,Posterior Cervical Dissectomy,22301,19392
+879,Anterior Cervical Dissectomy,16618,14450
+880,Brachial Plexus Exploration Microsuturing,15525,13500
+881,Median Ner ve Decompression,15180,13200
+882,Peripheral Neurectomy (Tirgeminal),15180,13200
+883,Trigeminal Rhiotom y,15525,13500
+884,Cranial Nerve Anastomosis,11500,10000
+885,Peripheral Nerve Surgery – Major,18400,16000
+886,Peripheral Nerve Surgery Minor,8280,7200
+887,Ventriculo-Atrial Shunt (without valve),13386,11640
+888,Nerve Biopsy,6900,6000
+889,Brain Biopsy,7475,6500
+890,Anterior Cervical Spine Sur gery with fusion,32200,28000
+891,Anterior Lateral Decompression of spine,28750,25000
+892,Brain Mapping,985,837
+893,Cervical or Dorsal or Lumbar Laminectomy,23000,20000
+894,Combined Trans-oral Surgery & CV Junction Fusion,46000,40000
+895,C.V. Junction Fusion procedures,32200,28000
+896,Depressed Fracture,28750,25000
+897,Discectomy,27600,24000
+898,Endarterectomy,23000,20000
+899,R.F. Les ion for Trigeminal Neuralgia -,11500,10000
+900,Spasticity Surgery -,39675,34500
+901,Spinal Fus ion Procedure,34500,30000
+902,Spinal Intra Medullar y Tumours,34500,30000
+903,Spinal Bifida Surgery Major,18975,16500
+904,Spina Bifida Surgery Minor,18975,16500
+905,Stereotaxic Procedures- biopsy/aspiration,23000,20000
+906,Trans Sphenoidal Sur gery,40250,35000
+907,Trans Oral Surgery,37375,32500
+908,Implantation of DBS -One elec trode,34500,30000
+909,Implantation of DBS -two electrodes,40250,35000
+910,Endoscopic adueduc toplasty,16100,14000
+911,Facial nerve reconstruction,40250,35000
+912,Recanelisation of venous sinuses,27600,24000
+913,Carotid stenting,51980,45200
+914,Cervical disc arthroplasty,27600,24000
+915,Lumbar disc arthroplasty,13800,12000
+916,Corpus callosectomy,40250,35000
+917,Hemishpherectomy,32200,28000
+918,Endoscopic CSF rhinorrhea rapair,39100,34000
+919,Burr hole evac uation of chronic subdural haem atoma,24150,21000
+920,Microsurgical excision of Acoustic tomour,39100,34000
+921,Microsurgical excision of meningom as,39100,34000
+922,Epilepsy surgery,51980,45200
+923,RF lesion for facet pain syndrome,17250,15000
+924,Cervical laminoplasty,32200,28000
+925,Lateral mass C1-C2 screw fixation,32200,28000
+926,Microsurgical decompression for Trigeminal nerve,43700,38000
+927,Cerebellar stimulation for hemifacial spasm,34500,30000
+928,Cerebellar stimulation for other cranial nerve neuralgia,34500,30000
+929,IC EC bypass procedures,51980,45200
+930,Steriotactic guided c raniotom y,51980,45200
+931,Baclofen pum p implantation les ioning for movement disorder including Parkinsonism,46000,40000
+932,Programmable VP shunt,28750,25000
+933,Endoscopic sympathectomy,17500,14875
+934,Lumber puncture,207,180
+935,External ventricular drainage,2300,2000
+936,Image guided s urgeryExcision of tethored,40250,35000
+937,Endoscopic 3rd ventriculostomy,40250,35000
+938,Endoscopic cranial surgery/Biopsy/aspiration/aneur ysm coiling,51980,45200
+939,Endoscopic discectomy,46000,40000
+940,Aneurysm coiling,45885,39900
+941,Endoscopic spinal procedure- aneurysm coiling,46000,40000
+942,Surgery for groving skull fractures-aneurysm coiling,45885,39900
+943,carpel Tunnel dec ompression,20700,18000
+944,Clipping of intracranial aneur ysm with use of stent,56810,49400
+945,Surgery for intracranial Arteriovenous malformarions(AVM),43988,38250
+946,Endovascular procedure/embolisation,32200,23800
+947,4 vessels cerebral angiography,13800,12000
+948,Foramen magnum decompression,28750,25000
+949,Foramen magnum decompression with syringosubarachnoid shunt,51980,45200
+950,Dorsal column stimulation for bachache in failed back syndrome,28750,25000
+951,Surgery for recurrent disc prolapse/epidural fibrosis,32200,28000
+952,Surgery for brain stem tumours,43988,38250
+953,Programmable shunts,28750,25000
+954,Decompressive cranectomy for hemishpherical acute subdural haem atoma/brain swelling/large infarct,51980,45200
+955,Intra arterial thrombolysis with tPA for ischemic stroketTpa- activated thromboplastin),4600,4000
+956,steriotactic aspiration of intracerebral haem atoma,43988,38250
+957,Endoscopic aspiration of intracerebellar haematoma,51980,45200
+958,Steriotactic Radiosurgery for brain pathology(Xkinfe/Gam ma knife - ONE session,57500,50000
+959,Steriotactic Radiosurgery for brain pathology(Xkinfe/Gam ma knife -Two or more sessions,57500,50000
+960,Chemotheraphy wafers for malignant brain tum ours,19550,14450
+961,Excision of thyroglossal Duct/Cyst,16100,14000
+962,Diaphragmatic Hernia Repair (Thoracic or Abdom inal Approach),17250,15000
+963,Tracheo Oes ophageal Fis tula (Correction Surgery),25300,22000
+964,Colon Replac ement of Oesophagus,23000,20000
+965,Omphalo Mes enteric Cyst Excision,17250,15000
+966,Omphalo Mes enteric Duct-   Excision,15525,13500
+967,Meckels Diverticulectomy,2910,2910
+968,Omphalocele 1st Stage (Hernia Repair ),15525,13500
+969,Omphalocele 2nd Stge ( Hernia Repair ),17250,15000
+970,Gastrochisis Repair,16100,14000
+971,Inguinal Her niotomy,12558,10920
+972,Congenital Hydrocele,12558,10920
+973,Hydrocele of Cord,12558,10920
+974,Torsion Testis Operation,15525,13500
+975,Congenital Pyloric Stenosis- operation,13938,12120
+976,Duodenal- Atresia Operation,14375,12500
+977,Pancreatic Ring Oper ation,28750,25000
+978,Meconium Ileus Operation,17250,15000
+979,Malrotation of Intestines Operation,17250,15000
+980,Rectal Biopsy (Megacolon),9200,8000
+981,Colostomy Transverse,17250,15000
+982,Colostomy Left Iliac,17250,15000
+983,Abdom inal Perineal Pull T hrough (Hirschaprugis Disease),20700,18000
+984,Imperforate Anus Low Anom aly -Cut Back Operation,10235,8900
+985,Imperforate Anus Low Anom aly - Perineal Anoplas ty,13800,12000
+986,Imperforate Anus High Anom aly -Sacroabdom ino Perineal Pull Through,20700,18000
+987,Imperforate Anus High Anom aly - Closure of Colostomy,8625,7500
+988,Intususception Oper ation,20700,18000
+989,Choledoc hoduodenos tomy for Atresia of Extra Hepatic Billiary Duct,20700,18000
+990,Operation of Choledoc hal Cyst,20700,18000
+991,Nephrectomy for -Pyonephrosis,20700,18000
+992,Nephrectomy for - Hydronephrosis,20700,18000
+993,Nephrectomy for -W ilms Tumour,7180,7180
+994,Paraortic Lymphadenoc tomy with Nephr ectomy for W ilms Tumour,23000,20000
+995,Sacro-Coccygeal Teratoma Excision,17250,15000
+996,Neuroblastoma Debulk ing,17480,15200
+997,Neuroblastoma Total Excision,20700,18000
+998,Rhabdom yosarcoma wide Excision,21563,18750
+999,Congenital Atr esia & Stenos is of Small Intestine,23000,20000
+1000,Muconium ileus,17250,15000
+1001,Mal-rotation & Volvulus of the Midgut,19182,16680
+1002,Excision of Meckle’s Deverticulum,15755,13700
+1003,Primary Suturing of W ound,3450,3000
+1004,Injection of Keloids -  Ganglion,1380,1200
+1005,Injection of Keloids - Haem angiom a,2300,2000
+1006,Free Grafts - W olfe Grafts,6555,5700
+1007,Free Grafts - Theirech- Small Area 5%,7475,6500
+1008,Free Grafts - Large Area 10%,8625,7500
+1009,Free Grafts - Very Large Area 20% and above.,10350,9000
+1010,Skin Flaps - Rotation Flaps,8970,7800
+1011,Skin Flaps - Advancement Flaps,12650,11000
+1012,Skin Flaps - Direct- cross Leg Flaps - Cross Arm Flap,13225,11500
+1013,Skin Flaps -  Cross Finger,13225,11500
+1014,Skin Flaps -  Abdom inal,13225,11500
+1015,Skin Flaps -  Thoracic,13225,11500
+1016,Skin Flaps -  Arm Etc.,14375,12500
+1017,Subcutaneous Pedicle Flaps Raising,6900,6000
+1018,Subcutaneous Pedicle Flaps Delay,7475,6500
+1019,Subcutaneous Pedicle Flaps Transfer,8625,7500
+1020,Cartilate Grafting,8625,7500
+1021,Reduction of Facial Fractures of Nose,1380,1200
+1022,Reduction of Facial Fractures of Maxilla,12420,10800
+1023,Reduction of Fractures of Mandible & Max illa - Eye Let Splinting,7475,6500
+1024,Reduction of Fractures of Mandible & Max illa - Cast Netal Splints,6900,6000
+1025,Reduction of Fractures of Mandible & Max illa - Gum ming Splints,7820,6800
+1026,Internal W ire Fixation of Mandible & Max illa,11500,10000
+1027,Cleft Lip - repair.,12650,11000
+1028,Cleft Palate Repair,13225,11500
+1029,Primary Bone Gr afting for alveolar cleft in Cleft Lip,11500,10000
+1030,Secondary Surgery for Cleft Lip Def ormity,11178,9720
+1031,Secondary Surgery for Cleft Palate,12650,11000
+1032,Reconstruction of Eyelid Defects - Minor,6325,5500
+1033,Reconstruction of Eyelid Defects - Major,11178,9720
+1034,Plastic Surgery of Different Regions of the Ear - Minor,8050,7000
+1035,Plastic Surgery of Different Regions of the Ear - Major,10350,9000
+1036,Plastic Surgery of the Nos e - Minor,8050,7000
+1037,Plastic Surgery of the Nos e - Major,11178,9720
+1038,Plastic Surgery for Facial Paralysis (Support with Reanim ation),18400,16000
+1039,Pendulous Breast - Mammoplasty,18630,16200
+1040,Underdeveloped Br east Mam moplasty,16675,14500
+1041,After Mastectomy (Reconstruction)Mammoplasty,16675,14500
+1042,Syndactyly Repair,16675,14500
+1043,Dermabrasion Face,13225,11500
+1044,upto 30% Bur ns 1st Dressing,152,132
+1045,upto 30% Bur ns Subsequent Dr essing,124,108
+1046,30% to 50% Bur ns 1st Dressing,193,168
+1047,30% to 50% Bur ns Subsequent Dr essing,152,132
+1048,Extensive Burn -above 50% Fr ist Dressing,276,240
+1049,Extensive Burn -above 50% Subs equent dr essing,193,168
+1050,"Fingers (post, slab)",259,225
+1051,Fingers full plaster,259,225
+1052,Colles Fracture - Below elbow,1150,1000
+1053,Colles Fracture - Full plas ter,994,864
+1054,Colles fracture Ant. Or post. slab,920,800
+1055,Above elbow f ull plaster,173,150
+1056,Above Knee pos t-slab,718,624
+1057,Below Knee f ull plaster,173,150
+1058,Below Knee pos t-slab,718,624
+1059,Tube Plaster (or plaster cylinder),978,850
+1060,Above k nee full plaster,1840,1600
+1061,Above k nee full slab,1380,1200
+1062,Minerva Jacket,2415,2100
+1063,Plaster Jacket,2185,1900
+1064,Shoulder spica,1955,1700
+1065,Single Hip s pica,2243,1950
+1066,Double Hip s pica,2760,2400
+1067,Strapping of Finger,179,156
+1068,Strapping of  Toes,179,156
+1069,Strapping of  W rist,262,228
+1070,Strapping of  Elbow,262,228
+1071,Strapping of Knee,345,300
+1072,Strapping of  Ankle,345,300
+1073,Strapping of Chest,489,425
+1074,Strapping of Shoulder,518,450
+1075,Figure of 8 bandage,518,450
+1076,Collar and cuff sling,345,300
+1077,Ball bandage,403,350
+1078,Application of P.O.P Cas ts for Upper & Lower Limbs,1093,950
+1079,Application of Functional Cas t Brace,1380,1200
+1080,Application of Skin Traction,690,600
+1081,Application of Skeletal Tractions,949,825
+1082,Bandage & Str appings for Fractures,552,480
+1083,Aspiration & Intr a Articular Injections,575,500
+1084,Application of P.O.P Spic es & Jackets,2473,2150
+1085,Close Reduc tion of Fractures of Limb & P.O.P,2760,2400
+1086,Reduction of Compound Fr actures,2760,2400
+1087,Open Reduc tion & Inter nal Fixation of Fingurs & Toes,5520,4800
+1088,Open Reduc tion offracture of Long Bones of Upper / Lower Limb -Nailing & Ex ternal Fixation,9660,8400
+1089,Open Reduc tion of fracture of Long Bones of Upper / Lower Limb -AO Procedures,9660,8400
+1090,Tension Band W irings,5658,4920
+1091,Bone Grafting,8280,7200
+1092,Excision of Bone T umours,6900,6000
+1093,Excision or other Operations for Scaphoid Fr actures,7188,6250
+1094,Sequestrectomy & Saucerisation,6900,6000
+1095,Sequestrectomy & Saucerizations -Arthrotomy,10235,8900
+1096,Multiple Pinning Fr acture Neck Femur,11500,10000
+1097,Nail Plate Fix ations for Fracture Neck Femur,16100,14000
+1098,A.O.Com pression Procedures for Fracture Neck Femur,16560,14400
+1099,Open Reduc tion of Fracture Neck Femur Muscle Pedicle Graft and Inter nal Fixations,19550,17000
+1100,Close Reduc tion of Dislocations,3174,2760
+1101,Open Reduc tion of Dislocations,3439,2990
+1102,Open Reduc tion of Fracture Dislocation & Inter nal Fixation,13800,12000
+1103,Neurolysis/Nerve repair,13800,12000
+1104,Nerve Repair with Grafting,18975,16500
+1105,Tendon with T ransplant or Graft,10350,9000
+1106,Tendon Lengthening/T endon repair,8050,7000
+1107,Tendon T ransfer,3105,2700
+1108,"Laminectomy, Excision Disc and Tumours",4830,4200
+1109,Spinal Os tectomy and Inter nal Fixations,24150,21000
+1110,Anterolateral decompression for tuberculosis/ Costo- Transversectomy,3450,3000
+1111,Antereolateral Decompression and Spinal Fus ion,26450,23000
+1112,Corrective Ostectomy & Internal Fixation -  short bones,13800,12000
+1113,Corrective Ostectomy & Internal Fixation -  long bones,11040,9600
+1114,Arthrodesis of -  Minor Joints,10350,9000
+1115,Arthrodesis of -  Major Joints,11040,9600
+1116,Soft Tissue Operations for C.T.E.V.,8050,7000
+1117,Soft Tissue Operations for Polio,6900,6000
+1118,Hemiarthroplasty- Hip,20125,17500
+1119,Hemiarthroplasty- Shoulder,20125,17500
+1120,Operations for Brachial Plexus & Cervical Rib,24150,21000
+1121,Amputations -  Below Knee,6900,6000
+1122,Amputations - Below Elbow,6843,5950
+1123,Amputations - Above Knee,10580,9200
+1124,Amputations - Above Elbow,6843,5950
+1125,Amputations - Forequarter,14950,13000
+1126,Amputations -Hind Quar ter and Hem ipelvectomy,18400,16000
+1127,Disarticulations - Major joint,20700,18000
+1128,Disarticulations - Minor joint,12650,11000
+1129,Arthrography,9200,8000
+1130,Arthroscopy - Diagnos tic,8568,7450
+1131,Arthroscopy-therapeutic: without im plant,11500,10000
+1132,Arthroscopy-therapeutic: with implant,17250,15000
+1133,Soft Tissue Operation on J OINTS -SMALL,2300,2000
+1134,Soft Tissue Operation on J OINTS -LARGE,16560,14400
+1135,Myocutaneous and Fas ciocutaneous FlaP Procedures for Limbs,18630,16200
+1136,Removal of  W ires & Screw,1800,1530
+1137,Removal of Plates/NAIL,4140,3600
+1138,Total Hip Replac ement,98532,85680
+1139,Total Ank le Joint Replac ement,112125,97500
+1140,Total Knee J oint Replac ement,126500,110000
+1141,Total Shoulder Joint Replac ement,19550,17000
+1142,Total Elbow J oint Replac ement,19550,17000
+1143,Total W rist Joint Replac ement,115000,100000
+1144,Total finger joint replacement,23000,20000
+1145,Tubular external fixator,4600,4000
+1146,Ilizarov's external fixator,7763,6750
+1147,Pelvi-acetebular fracture -internal fixation,8625,7500
+1148,Ultrasonic therapy,78,68
+1149,S.W . Diathermy,78,68
+1150,Electrical stimulation (therapeutic),78,68
+1151,Muscle testing and diagnos tic,78,68
+1152,Infra red,71,62
+1153,U.V. Therapeutic dose,78,68
+1154,Intermittent Lum bar Traction,78,68
+1155,Intermittent Cervical traction,78,68
+1156,W ax bath,78,68
+1157,Hot pack,78,68
+1158,Breathing Ex ercises & Postural Drainage,58,50
+1159,Cerebral Palsy – exercise,58,50
+1160,Post – polio exercise,58,50
+,131-lodine T herapy,8300,7055
+1161,131-lodine Therapy <15m Ci,5130,4361
+1162,131-lodine Therapy 15-50mCi,12000,10200
+1163,131-lodine Therapy 51-100mCi,15000,12750
+1164,131-lodine Therapy >100m Ci,18000,15300
+1165,Phosphorus-32 therapy for metastatic bone pain palliation,7130,6061
+1166,Samarium-153 therapy for metastatic bone pain palliation,10690,9087
+1167,Radiosynovectomy with Yttrium,79350,69000
+1168,Radical therapy,48300,42000
+1169,Palliative ther apy,25000,21250
+1170,Radical therapy,60000,51000
+1171,Palliative ther apy,35000,29750
+1172,3 D Planning,5000,4250
+1173,2 D Planing,5000,4250
+1174,IMRT(Intensity Modulated r adiotherapy),103200,87720
+1175,SRT (Stereotactic radiotherapy),62400,53040
+1176,SRS(Stereotactic radio surgery),82400,70040
+1177,IGRT(Image guided r adiotherapy),150400,127840
+1178,Respiratory Gating-alongwith Linear accelerator planning,125000,106250
+1179,Electron beam with Linear accelerator,89060,75701
+1180,Tomotherapy,112125,97500
+1181,Intracavitory,12000,10200
+1182,Interstitial,40480,35200
+1183,Intraluminal,10000,8500
+1184,Surface moul,4750,4038
+1185,GLIADAL W AFER,107830,91656
+1186,Neoadjuvant,863,750
+1187,Adjuvant,863,750
+1188,Concurrent-chemoadiation,920,800
+1189,Single drug,552,480
+1190,Multiple drugs,897,780
+1191,Targeted ther apy,920,800
+1192,Chemoport facility,920,800
+1193,PICC line ( peripherally inserted Centr al canulisation),920,800
+,a.      Upper G.I. Endos copy + Lower G.I. Endos copy,1725,1500
+1194,a.      Diagnos tic endoscopy,600,510
+1195,b.     Endos copic biopsy,345,300
+1196,c.      Endos copic mucosal resection,1898,1650
+1197,d.     Oes ophageal s tricture dilatation,1725,1500
+1198,e.     Balloon dilatation of achalasia cardia,2875,2500
+1199,f.       For eign body removal,1725,1500
+1200,g.      Oes ophageal s tenting,3450,3000
+1201,h.     Band ligation of oesophageal var ices,2875,2500
+1202,i.        Sc lerotherapy of oesophageal var ices,2737,2380
+1203,j.       Glue inj ection of varices,2737,2380
+1204,k.      Argon plasma coagulation,4025,3500
+1205,l.        Pyloric balloon dilatation,2415,2100
+1206,m.   Enteral stenting,3680,3200
+1207,n.     Duodenal s tricture dilation,2415,2100
+1208,o.     Single balloon enter ocopy,4600,4000
+1209,p.     Double balloon enter oscopy,4000,3400
+1210,q.     Caps ule endos copy,5175,4500
+1211,r.       Polypectomy,1518,1320
+1212,s.      Piles banding,1125,956
+1213,t.       Colonic stricture dilatation,2737,2380
+1214,u.     Hot biops y forceps procedures,3128,2720
+1215,v.      Colonic stenting,2737,2380
+1216,w.    Junction biopsy,2208,1920
+1217,x.      Nar row band im aging,2024,1760
+1218,y.      Conj ugal microscopy,4600,4000
+1219,a.      Diagnos tic ERCP,5750,5000
+1220,b.     Endos copic sphincterotomy,2415,2100
+1221,c.      CBD s tone extraction,2415,2100
+1222,d.     CBD s tricture dilatation,7935,6900
+1223,e.     Biliary stenting (plastic and m etallic),4830,4200
+1224,f.       Mec hanical lithotripsy of CBD stones,8050,7000
+1225,g.      Panc reatic sphincterotomy,8050,7000
+1226,h.     Panc reatic stricture dilatation,5750,5000
+1227,i.        Panc reatic stone extraction,10350,9000
+1228,j.       Mec hanical lithotripsy of pancreatic stones,11385,9900
+1229,k.      Endos copic cysto gastrostomy,8050,7000
+1230,l.        Balloon dilatation of papilla,6900,6000
+1231,a.      Diagnos tic ultrasound,575,500
+1232,b.     Color ed doplar,0,0
+1233,c.      Ultrasound guided FNAC,575,500
+1234,d.     Ultr asound guided abs cess drainage,575,500
+1235,e.     PT BD,2875,2500
+1236,f.       Biliary stenting,4830,4200
+,C.     Angiogr aphy,11500,10000
+1237,a.      Diagnos tic angiography,1495,1300
+1238,b.     Vas cular embolization,29670,25800
+1239,c.      TIPS,4106,3035
+1240,d.     T rans jugular liver biopsy,6843,5950
+1241,e.     IVC gr aphy + hepatic veinography,16192,14080
+1242,f.       Balloon angioplas ty,79028,68720
+1243,g.      Mus cular stenting,75440,65600
+1244,h.     BRT O,74750,65000
+1245,i.        Por tal haem odynamic studies,1725,1500
+1246,a.      Oes ophageal PH m etry,6808,5920
+1247,b.     Oes ophageal m anometry,8096,7040
+1248,c.      Sm all bowel m anometry,8464,7360
+1249,d.     Anor ectal manometry,6486,5640
+1250,e.     Colonic manometry,6808,5920
+1251,f.       Biliary manometry,8096,7040
+1252,E.      Sengs taken blackenesse tube tem ponade,2484,2160
+1253,F.      Lintas machles tube tem ponade,2392,2080
+1254,a.      D- xylase test,0,0
+1255,b.     Fec al fat test/ fecal chymotrypsin/ fecal elastase,0,0
+1256,c.      Breath tests,0,0
+1257,d.     H pylori serology for ciliac disease,0,0
+1258,e.     HBV genoty ping,0,0
+1259,f.       HCV genoty ping,0,0
+,H.     Ex tra corporeal shortwave lithotripsy,41400,36000
+1268,a.      CBD s tones,89,77
+1268,b.     Panc reatic duct stones,10330,8781
+1270,I.       Liver biopsy,1380,1200
+1271,Internal jugular cannulization,1208,1050
+1272,Renal Biops y,1380,1200
+1273,Transplant Biops y,2300,2000
+1274,Acute P.D. c atheterization,1725,1500
+1275,Cont. Renal Replac ement Therapy,17250,15000
+1276,SLED (Slow Efficiency Dialysis),1610,1400
+1277,Permacath Insertion,2300,2000
+1278,CAPD ( Insertion and Rem oval ),2600,2261
+1279,Femoral Access,886,770
+1280,Subclavian Access,1725,1500
+1281,Partial Nephrectomy,16215,14100
+1282,Nephrolithotom y- Laproscopic/endoscopic,16100,14000
+1283,Pyelolithotom y-laproscopic/ endoscopic,10580,9200
+1284,pyeloplasty -Lap/ Endos copic,11250,9563
+1285,Ureterolithotom y- Lap/ Endos copic,10580,9200
+1286,Formation of an illeal conduit,17250,15000
+1287,Fistula/shunt,5575,4848
+1288,Dialysis Femoral Catheter ization Bilateral,1380,1200
+1289,Haem odialysis- For Sero negative c ases,1208,1050
+1290,Haem odialysis- For Sero positive cases,1466,1275
+1291,Double lum an sub clavian catheter,1932,1680
+1292,Continuous Arterio Venous Haem ofiltration,1725,1500
+1293,Plasma Exchange,2875,2500
+1294,Donor nephrectomy- Open,28750,25000
+1295,Donor nephrectomy- Lap/ endos copic,46000,40000
+1296,Renal T ransplantation,115000,100000
+1297,Lymphocoel Post Transplant,5750,5000
+1298,Transplant Nephr ectomy,23000,20000
+1,Dental IOPA X-ray,70,60
+2,Occlusal X-ray,80,68
+3,OPG X-ray,200,170
+4,Lung Ventilation & Perfusion Scan (V/Q Scan),5000,4250
+5,Lung Perfusion Scan,3000,2550
+6,Whole Body Bone Scan with SPECT.,3500,2975
+7,Three phase whole body Bone Scan,3500,2975
+8,Brain Perfusion SPECT Scan with Technetium 99m radiopharmaceuticals.,10000,8500
+9,Radionuclide Cisternography for CSF leak,5000,4250
+10,Gastro esophageal Reflux Study (G.E.R. Study),2000,1700
+11,Gastro intestinal Bleed (GloB.) Study with Technetium 99m labeled RBCs.,3500,2975
+12,Hepatobiliary Scintigraphy.,2500,2125
+13,Meckel's Scan,2000,1700
+14,Hepatosplenic scintigraphy with Technetium-99m radiopharmaceuticals,2500,2125
+15,Gastric emptying,1500,1275
+16,Renal Cortical Scintigraphy with Technetium 99m,3500,2975
+17,Dynamic Renography.,3500,2975
+18,Dynamic Renography with Diuretic.,3500,2975
+19,Dynamic Renography with Captopril,4500,3825
+20,Testicular Scan,1500,1275
+21,Thyroid Uptake measurements with 131-Iodine.,1600,1360
+22,Thyroid Scan with Technetium 99m Pertechnetate.,1500,1275
+23,lodine-131 Whole Body Scan.,3000,2550
+24,Whole Body Scan with M.I.B.G.,18000,15300
+25,Parathyroid Scan,3900,3315
+26,131-lodine Therapy,0,0
+27,131-lodine Therapy  <15mCi,0,0
+28,131-lodine Therapy 15-50mCi,0,0
+29,131-lodine Therapy 51-100mCi,0,0
+30,131-lodine Therapy >100mCi,0,0
+31,Phosphorus-32 therapy for metastatic bone pain palliation,0,0
+32,Samarium-153 therapy for metastatic bone pain palliation,0,0
+33,Radiosynovectomy with Yttrium,0,0
+34,Stress thallium / Myocardial Perfusion Scintigraphy,9900,8415
+35,Rest thallium / Myocardial Perfusion Scintigraphy,9900,8415
+36,Venography,3500,2975
+37,ECG,50,43
+38,STRESS ECHO- DOBUTAMINE,0,0
+39,STRESS ECHO- EXERCISE,1650,1403
+40,TMT,500,425
+41,TEE,500,425
+42,Lymph angiography,1650,1403
+43,Scintimammography.,5000,4250
+44,Indium lableled octeriotide Scan.,75000,63750
+45,FDG Whole body PET / CT Scan,21000,17850
+46,"Brain I Heart FDG PET / CTScan,",15000,12750
+47,Gallium-68 Peptide PET / CT imaging for Neuroendocrine Tumor,17000,14450
+48,Non-FDG PET / CT Scan,0,0
+49,"Urine routine- pH,Specific gravity,sugar,protein and microscopy",39,33
+50,"24 hrs urine for Proteins,Sodium,creatinine",50,43
+51,Urine-Microalbumin,150,128
+52,Quantitative Albumin/Sugar,24,20
+53,Urine Bile Pigment and Salt,35,30
+54,Urine Urobilinogen,35,30
+55,Urine Ketones,35,30
+56,Urine Occult Blood,30,26
+57,Urine total proteins,21,18
+58,Bence Jones protein,30,26
+59,Stool routine,30,26
+60,Stool occult blood,20,17
+61,Post coital smear examination,100,85
+62,semen analysis,80,68
+63,"Body fluid  (CSF/Ascitic Fluid etc.)Sugar, Protein etc.",100,85
+64,Albumin.,21,18
+65,Creatinine clearance.,160,136
+66,Haemoglobin (Hb),19,16
+67,Total Leucocytic Count (TLC),32,27
+68,Differential Leucocytic Count (DLC),32,27
+69,E.S.R.,35,30
+70,"Total Red Cell count with MCV,MCH,MCHC,DRW",35,30
+71,"Complete Haemogram -Hb,RBC count and indices, TLC, DLC, Platelet, ESR, Peripheral smear examination",138,117
+72,Platelet count,50,42
+73,Reticulocyte count,45,38
+74,Absolute Eosinophil count,50,42
+75,Packed Cell Volume (PCV),35,30
+76,Peripheral Smear Examination,44,37
+77,Smear for Malaria parasite,42,36
+78,Bleeding & Clotting Time,48,41
+79,Clot Retraction Time,35,30
+80,R.B.C. Fragility Test,60,51
+81,L.E. Cell,77,65
+82,Foetal Haemoglobin (Hb-F),150,128
+83,Prothrombin Time (P.T.),100,85
+84,Bone Marrow Smear Exmination,75,64
+85,Bone Marrow Smear Exmination with iron stain,256,218
+86,Bone Marrow Smear Exmination and cytochemistry where required.,665,565
+87,Partial Thromboplastin,105,89
+88,"Glucose Phosphate Dehydrogenase (G, 6PD)",250,213
+89,Rapid test for malaria(card test),44,37
+90,WBC cytochemistry for leukemia -Conmplete panel,890,757
+91,"Bleeding Disorder panel-BT,CT,Platetlet count,APTT,extended  & Dic studies(FDP).",700,595
+92,Factro Assays-Factor VIII,750,638
+93,Factor Assays-Factor IX,700,595
+94,Factro Assays-other Factors,1550,1318
+95,IgG.,260,221
+96,IgM.,260,221
+97,IgA.,260,221
+98,IgG.,260,221
+99,IgM.,260,221
+100,IgA.,260,221
+101,Thalessemia studies,700,595
+102,Hb Electrophoresis,455,387
+103,Sickling studies,77,65
+104,Serum Iron,100,85
+105,Total Iron Binding Capacity,100,85
+106,Vitamin B.12.,256,218
+107,Folic Acid.,350,298
+108,HDL Cholestrol,100,85
+109,Blood Group & RHO Type,33,28
+110,Cross match,60,51
+111,Packed cell preparation,40,34
+112,Coomb’s Test Direct,100,85
+113,Coomb’s Test Indirect,119,101
+114,Australia Antigen,120,102
+115,"RHO, Antibody titer",119,101
+116,Blood Components-PRO,2800,2380
+117,Blood Components -Fresh Frozen Plasma,515,438
+118,Blood Components-Cryoprecipitate,450,383
+119,Routine-H & E,100,85
+120,special stain,100,85
+121,Immunohistochemistry(IHC),878,746
+122,Frozen section,1500,1275
+123,Paraffin section,350,298
+124,Pap Smear,160,136
+125,Vaginal Cytology for Hormonal evaluation,160,136
+126,Body fluid for Malignant cells,200,170
+127,FNAC,250,213
+128,special stain on cytology,90,77
+129,Leukemia panel /Lymphoma panel,3575,3039
+130,"CD Count: CD3,CD4,CD8",1000,850
+131,"PNH Panel-CD55,CD59",1450,1233
+132,karyotyping,2200,1870
+133,PSA- Total.,319,271
+134,PSA- Free.,450,383
+135,AFP.,345,293
+136,HCG.,340,289
+137,CA. 125.,400,340
+138,"CA 19,9.",630,536
+139,"CA  5,3.",630,536
+140,Carcioembryonic antigen(CEA),350,298
+141,Blood Glucose Random,25,21
+142,Blood Urea Nitrogen,55,47
+143,Serum Creatinine,56,48
+144,Serum Uric Acid,56,48
+145,Serum Bilirubin total & direct,0,0
+146,Serum Iron,0,0
+147,Serum Cholesterol,63,54
+148,Total Iron Binding Capacity,100,85
+149,Glucose (Fasting & PP),48,41
+150,Serum Calcium -Total,63,54
+151,Serum Calcium -Ionic,45,38
+152,Serum Phosphorus,66,56
+153,Total Protein Alb/Glo Ratio,70,60
+154,S.G.P.T.,56,48
+155,S.G.O.T.,56,48
+156,Serum amylase,120,102
+157,Serum Electrolyte,140,119
+158,Triglyceride,95,81
+159,Glucose Tolerance Test (GTT),100,85
+160,C.P.K.,105,89
+161,L.D.H.,132,112
+162,Alkaline Phosphatase,63,54
+163,Acid Phosphatase,80,68
+164,CK MB,196,167
+165,Lithium.,140,119
+166,Dilantin (phenytoin).,439,373
+167,Carbamazepine.,439,373
+168,Valproic acid.,315,268
+169,Feritin.,315,268
+170,Blood gas analysis,470,400
+171,Blood gas analysis with electrolytes,151,129
+172,Urine pregnancy test,69,58
+173,Hb A1 C,165,140
+174,Kidney Function Test.,261,222
+175,Liver Function Test.,275,234
+176,"Lipid Profile.( Total cholesterol,LDL,HDL,treigylcerides)",215,182
+177,"Extended Lipid Profile.( Total cholesterol,LDL,HDL,treigylcerides,Apo A1,Apo B,Lp(a))",700,595
+178,Apo A1.,203,173
+179,Apo B.,203,173
+180,Lp (a).,455,387
+181,LDL.,63,54
+182,Homocysteine.,455,387
+183,HB Electrophoresis.,450,383
+184,Serum Electrophoresis.,300,255
+185,Fibrinogen.,400,340
+186,Chloride.,66,56
+187,Magnesium.,154,131
+188,GGTP.,100,85
+189,Lipase.,245,208
+190,Fructosamine.,224,190
+191,?2 microglobulin,100,85
+192,Albumin.,21,18
+193,Catecholamines.,1400,1190
+194,Creatinine clearance.,160,136
+195,"T3, T4, TSH",213,181
+196,T3,75,64
+197,T4,75,64
+198,TSH,125,106
+199,LH,188,159
+200,FSH,188,159
+201,Prolactin,188,159
+202,Cortisol,266,226
+203,Enteropoetin,693,589
+204,PTH(Paratharmone),618,525
+205,Calcitonin,840,714
+206,C-Peptide.,50,43
+207,Insulin.,325,276
+208,Progesterone.,266,226
+209,17-DH Progesterone.,450,383
+210,DHEAS.,450,383
+211,Androstendione.,770,655
+212,Growth Hormone.,350,298
+213,TPO.,385,327
+214,Throglobulin.,400,340
+215,Smear gram-strain examination,48,41
+216,Sputum smear A.F.B. stain,56,48
+217,Vaginal Smear Examination,80,68
+218,Direct smear  and stain examination  for cryptosporidium,100,85
+219,Direct smear  and stain examination for P.Carcinei,100,85
+220,LCB Count for mycology,150,128
+221,LCB Count for others,300,255
+222,V.D.R.L.,50,42
+223,TPHA test,200,170
+224,Widal test,70,60
+225,Rheumatoid Factor test,105,89
+226,Culture & Sensitivity -bacterial,100,85
+227,Culture & Sensitivity -Mycobacterial,200,170
+228,Culture & Sensitivity -mycology,200,170
+229,C.R.P.,120,102
+230,C.R.P Quantative,200,170
+231,ASO Titer,143,122
+232,Quantitative H.C.G.,80,68
+233,Blood culture & sensitivity- manual,160,136
+234,Blood culture & sensitivity-automated,300,255
+235,Vibro cholera culture,250,213
+236,Rapid Blood Culture.,468,397
+237,Rapid AFB Culture.,420,357
+238,C.3.,250,213
+239,C.4.,250,213
+240,IgG.,260,221
+241,IgM.,260,221
+242,IgA.,260,221
+243,ANA.,320,272
+244,Ds DNA.,385,327
+245,P ANCA.,800,680
+246,C ANCA.,770,655
+247,HAV.,553,470
+248,HbSAg – Elisa.,120,102
+249,Anti HBS.,300,255
+250,Anti HBC Total.,490,417
+251,Anti HBC IgM.,488,414
+252,HbeAg.,423,359
+253,Anti Hbe.,450,383
+254,Anti- HCV.,150,128
+255,Anti- HEV.,618,525
+256,Triple Marker.,800,680
+257,IgG.,260,221
+258,IgM.,260,221
+259,IgG.,260,221
+260,IgM.,260,221
+261,IgG.,260,221
+262,IgM.,260,221
+263,IgG.,260,221
+264,IgM.,260,221
+265,IgE.,400,340
+266,TB IgG.,280,238
+267,TB IgM.,280,238
+268,TB IgA.,280,238
+269,Ig G,200,170
+270,Ig M,200,170
+271,Ig A,250,213
+272,Dengue Serology.,600,510
+273,Cysticercosis.,500,425
+274,Hydatic Serology.,374,318
+275,Anti Sperm Antibodies.,406,345
+276,Qualitative.,2340,1989
+277,Quantitative.,1600,1360
+278,Qualitative.,2340,1989
+279,HPV serology,4000,3400
+280,Rota Virus serology,0,0
+281,PCR for TB,975,829
+282,PCR for HIV,630,536
+283,Chlamydae antigen,900,765
+284,chlamydae antibody,280,238
+285,Brucella serology,245,208
+286,Influenza A serology,943,801
+287,USG for Obstetrics -  Anomalies scan,380,323
+288,Abdomen USG,300,255
+289,"Pelvic USG ( prostate, gynae, infertility etc)",300,255
+290,"Small parts USG ( scrotum, thyroid , parathyroid etc)",410,349
+291,Neonatal head (Tranfontanellar),500,425
+292,Neonatal spine,500,425
+293,Contrast enhanced USG,1000,850
+294,USG Breast,410,349
+295,USG Hystero-Salpaingography  (HSG),300,255
+296,"Colour Doppler , Carotid artery",1000,850
+297,"Colour Doppler,  Peripheral Artery/Veins",830,706
+298,"Colour doppler, renal arteries/any other organ",900,765
+299,USG guided intervention-aspiration,500,425
+300,USG guided intervention- FNAC,700,595
+301,USG guided intervention - biopsy,0,0
+302,USG guided intervention - nephrostomy,875,744
+303,Abdomen AP Supine or Erect (One film),150,128
+304,Abdomen Lateral view (one film),150,128
+305,Pelvimetry,150,128
+306,Chest PA view (one film),70,60
+307,Chest Lateral (one film),70,60
+308,"Mastoids: Towne view, oblique views (3 films)",300,255
+309,"Extremities, bones  & Joints AP & Lateral views (Two films)",300,255
+310,Pelvis A.P  (one film),150,128
+311,T. M. Joints (one film),150,128
+312,Abdomen & Pelvis for K. U. B.,150,128
+313,Skull A. P. & Lateral (2 films),300,255
+314,Spine A. P. & Lateral (2 films),300,255
+315,PNS view (1 film),150,128
+,X ray Contrast studies,350,298
+316,Barium Swallow,600,510
+317,Barium Upper GI study,600,510
+318,Barium Upper GI study (Double contrast),800,680
+319,Barium Meal follow through,1100,935
+320,Barium Enema (Single contrast/double contrast),1000,850
+321,Small bowel  enteroclysis,1200,1020
+322,ERCP (Endoscopic Retrograde Cholangio – Pancreatography),2010,1709
+323,General :Fistulography /Sinography/Sialography/Dacrocystography/   T-Tube cholangiogram/Nephrostogram,750,638
+324,Percutaneous transhepatic cholangiography (PTC),1200,1020
+325,Intravenous Pyelography (IVP),1400,1190
+326,Micturating  Cystourethrography (MCU),800,680
+327,Retrograde Urethrography (RGU),800,680
+328,Contrast Hystero-Salpingography (HSG),800,680
+329,X ray - Arthrography,1350,1148
+330,Cephalography,150,128
+331,Myelography,2000,1700
+332,Digital Subtraction Angiography (DSA) – Cerebral arteries,8000,6800
+333,Digital Subtraction Angiography (DSA) – Peripheral Artery/arteries,8000,6800
+334,Digital Subtraction Angiography (DSA) - abdomen,0,0
+335,Digital Subtraction Angiography (DSA) -  chest,0,0
+336,X-ray Mammography,500,425
+337,Ultrasound Mammography,500,425
+338,MRI Mammography,3000,2550
+339,CT Head-Without Contrast,1050,893
+340,CT Head- with Contrast  (+/- CT angiography),1350,1148
+341,C. T. Chest  - without contrast (for lungs),2000,1700
+342,C. T. Chest - with contrast (+/- CT angiography),2500,2125
+343,C. T. Scan Upper Abdomen Without Contrast,1700,1445
+344,C. T. Scan Upper Abdomen With Contrast,2400,2040
+345,C. T. Scan Lower Abdomen Without Contrast,1700,1445
+346,C. T. Scan lower Abdomen With Contrast,2400,2040
+347,C. T. Scan Whole Abdomen Without Contrast,3300,2805
+348,C. T. Scan Whole Abdomen With Contrast,4500,3825
+349,CT angiography abdomen,5000,4250
+350,CT enteroclysis,3000,2550
+351,"C. T. Scan Neck (Thyroid, parathyroid, Soft Tissues) – Without Contrast",1800,1530
+352,C. T. Scan Neck  – With Contrast,2200,1870
+353,C. T. Scan Orbits - Without Contrast,1400,1190
+354,C. T. Scan Orbits - With Contrast,1900,1615
+355,C. T. Scan of Para  Nasal Sinuses- Without Contrast,1250,1063
+356,C. T. Scan of Para  Nasal Sinuses - With Contrast,2100,1785
+357,"C. T. Spine (Cervical, Dorsal, Lumbar, Sacral)–without contrast",1750,1488
+358,CT Temporal bone – without contrast,1050,893
+359,CT - Dental,1500,1275
+360,C. T. Scan Limbs  -Without Contrast,2000,1700
+361,C. T. Scan Limbs  -With Contrast including CT angiography,2650,2253
+362,C.T. Guided intervention – Biopsy /FNAC,1500,1275
+363,C. T. Guided intervention -percutaneous  catheter drainage / tube placement,1535,1305
+364,MRI Head – Without Contrast,2350,1998
+365,MRI Head – With Contrast,3350,2848
+366,MRI Orbits – Without Contrast,1700,1445
+367,MRI Orbits – With Contrast,5000,4250
+368,MRI Nasopharynx and PNS – Without Contrast,2500,2125
+369,MRI Nasopharynx and PNS – With Contrast,5000,4250
+370,MRI Neck - Without Contrast,2400,2040
+371,MRI Neck- with contrast,5000,4250
+372,MRI Shoulder – With contrast,5000,4250
+373,MRI Shoulder – Without contrast,2500,2125
+374,MRI shoulder both Joints - Without contrast,2500,2125
+375,MRI Shoulder both joints – With  contrast,5000,4250
+376,MRI Wrist Single joint - Without contrast,2500,2125
+377,MRI Wrist Single joint - With contrast,5000,4250
+378,MRI Wrist both  joints - Without contrast,2500,2125
+379,MRI Wrist Both joints - With contrast,5000,4250
+380,MRI knee Single joint - Without contrast,2500,2125
+381,MRI knee Single joint - With contrast,5000,4250
+382,MRI knee both joints - Without contrast,2500,2125
+383,MRI knee both  joints - With contrast,5000,4250
+384,MRI Ankle Single joint - Without contrast,2500,2125
+385,MRI Ankle single  joint - With contrast,5000,4250
+386,MRI Ankle both  joints - With contrast,5000,4250
+387,MRI Ankle both  joints - Without contrast,2500,2125
+388,MRI Hip - With contrast,5500,4675
+389,MRI Hip – without contrast,3000,2550
+390,MRI Pelvis – Without Contrast,2500,2125
+391,MRI  Pelvis – with contrast,5000,4250
+392,MRI Extremities - With contrast,5000,4250
+393,MRI Extremities - Without contrast,2500,2125
+394,MRI Temporomandibular - Single Joint  - With contrast,5000,4250
+395,MRI Temporomandibular - Single Joint  - Without contrast,2500,2125
+396,MRI Temporomandibular Double Joint  - With contrast,5000,4250
+397,MRI Temporomandibular Double Joint  - Without contrast,2500,2125
+398,MRI Abdomen – Without Contrast,2500,2125
+399,MRI Abdomen – With Contrast,5000,4250
+400,MRI Breast - With Contrast,5000,4250
+401,MRI Breast - Without Contrast,2500,2125
+402,MRI Spine Screening - Without Contrast,1000,850
+403,MRI Chest – Without Contrast,2500,2125
+404,MRI Chest – With Contrast,5000,4250
+405,MRI Cervical Spine – Without Contrast,2500,2125
+406,MRI Cervical Spine – With Contrast,5000,4250
+407,MRI Dorsal Spine - Without Contrast,2500,2125
+408,MRI Dorsal Spine – With Contrast,5000,4250
+409,MRI Lumbar Spine  – Without Contrast,2500,2125
+410,MRI Lumbar Spine – With Contrast,5000,4250
+411,Whole body MRI (For oncological workup),6000,5100
+412,MRI Angiography – Without Contrast,1200,1020
+413,MRI Angiography – With Contrast,5000,4250
+414,MR cholecysto-pancreatography.,2500,2125
+415,MR Enteroclysis,2500,2125
+416,Bone Densitometry - Single Site,1000,850
+417,Bone Densitometry - Two sites,1800,1530
+418,"Bone Densitometry - Three sites (Spine, Hip & extremity)",2300,1955
+419,Bone Densitometry Whole body,2950,2508
+420,EEG/Video EEG,350,298
+421,EMG (Electro myography),750,638
+422,Nerve condition velocity (at least 2 limbs),750,638
+423,Decremental response (before and after neo stigmine),700,595
+424,Incremental response,700,595
+425,SSEP (Somato sensory evoked potentials),750,638
+426,Poly somnography,750,638
+427,Brachial plexus study,750,638
+428,Muscle biopsy,450,383
+429,ACHR anti body titre,8500,7225
+430,Anti MUSK body titre,9500,8075
+431,Serum COPPER,600,510
+432,Serum ceruloplasmin,618,525
+433,Urinary copper,600,510
+434,Serum homocystine,455,387
+435,Serum valproate level,439,373
+436,Serum phenol barbitone level,390,332
+437,Coagulation profile,500,425
+438,"Protein C, S anti thrombine – III",5200,4420
+439,Serum lactate level,540,459
+,CSF,350,298
+440,"a.   Basic studies including cell count, protein, sugar,gram stain, India Ink preparation and smear for AFP",240,204
+441,b.      Special studies,1200,1020
+442,PCR for tuberculosis/ Herpes simplex,1229,1044
+443,Bacterial culture and sensitivity,180,153
+444,Mycobacterial culture and sensitivity,180,153
+445,Fungal culture,150,128
+446,Malignant cells,75,64
+447,Anti measles antibody titre (with serum antibody titre),1230,1046
+448,Viral culture,300,255
+449,"Antibody titre (Herpes simplex, cytomegalo virus, flavivirus, zoster varicella virus)",2275,1934
+450,Oligoclonal band,1500,1275
+451,Myelin Basic protein,5040,4284
+452,Lactate,350,298
+453,Crypto coccal antigen,1138,967
+454,a.       D-xylase test,1200,1020
+455,b.      Fecal fat test/ fecal chymotrypsin/ fecal elastase,1200,1020
+456,c.       Breath tests,1500,1275
+457,d.      H pylori serology for ciliac disease,550,468
+458,e.      HBV genotyping,2730,2321
+459,f.        HCV genotyping,5450,4633
+460,Urinary VMA,1500,1275
+461,Urinary metanephrine/Normetanephrine,1138,967
+462,Urinary free catecholamine,1690,1437
+463,Serum catecholamine,2400,2040
+464,Serum aldosterone,1200,1020
+465,24 Hr urinary aldosterone,920,782
+466,Plasma renin activity,1235,1050
+467,Serum aldosterone/renin ratio,1250,1063
+468,Osmolality urine,150,128
+469,Osmolality serum,150,128
+470,Urinary sodium,90,77
+471,Urinary Chloride,50,43
+472,Urinary potassium,90,77
+473,Urinary calcium,90,77
+474,Anti TPO  ante body,400,340
+475,Thyroid binding globulin,600,510
+476,Serum cotisole,300,255
+477,24 hr urinary free cotisole,400,340
+478,Islet cell antebody,1015,863
+479,GAD antibody,1330,1131
+480,Insulin associated antibody,449,381
+481,IGF-1,2015,1713
+482,IGF-BP3,1788,1519
+483,Sex hormone binding globulin,1333,1133
+484,USG guided FNAC thyroid gland,455,387
+485,FT3,125,106
+486,FT4,125,106
+487,FT4/TSH,100,85
+488,FT3/FT4/TSH,300,255
+489,E2,245,208
+490,Thyro globulin antibody,700,595
