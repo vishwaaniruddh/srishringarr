@@ -1,0 +1,51 @@
+# Rewrite rules for URL redirection
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+    RewriteRule ^lehenga_choli_on_rent$ /apparel.php?id=10&type=2 [L]
+    RewriteRule ^indo_western_lehenga_on_rent$ /apparel.php?id=28&type=2 [L]
+    RewriteRule ^gowns_on_rent$ /apparel.php?id=22&type=2 [L]
+    RewriteRule ^trail_gown_on_rent$ /apparel.php?id=29&type=2 [L]
+    RewriteRule ^bridal_lehenga$ /apparel.php?id=31&type=2 [L]
+    
+    RewriteRule ^american_diamond_necklace_on_rent$ /jewel.php?id=2&type=1 [L]	
+    RewriteRule ^antique_jewellery_on_rent_in_mumbai$ /jewel.php?id=1&type=1 [L]	
+    RewriteRule ^imitation_jewellery_on_rent$ /jewel.php?id=6&type=1 [L]	
+    RewriteRule ^kundan_bridal_set_on_rent$ /jewel.php?id=3&type=1 [L]	
+    RewriteRule ^south_indian_jewellery_on_rent$ /jewel.php?id=68&type=1 [L]	
+    RewriteRule ^rent_vilandi_necklace_set$ /jewel.php?id=4&type=1 [L]	
+    RewriteRule ^rent_mathapatti_on_lehenga$ /jewel.php?id=57&type=1 [L]	
+    RewriteRule ^rent_rajasthani_style_borla$ /jewel.php?id=53&type=1 [L]	
+    RewriteRule ^antique_earrings_on_rent$ /jewel.php?id=77&type=1 [L]	
+    RewriteRule ^bugadi_earring_on_rent$ /jewel.php?id=80&type=1 [L]	
+    RewriteRule ^rent_diamond_earrings$ /jewel.php?id=74&type=1 [L]	
+    RewriteRule ^rent_earrings$ /jewel.php?id=78&type=1 [L]	
+    RewriteRule ^rent_earrings_imitation_jewellery$ /jewel.php?id=78&type=1 [L]	
+    RewriteRule ^rent_kundan_bridal_earrings$ /jewel.php?id=75&type=1 [L]	
+    RewriteRule ^rent_oxidized_earrings$ /jewel.php?id=79&type=1 [L]	
+    RewriteRule ^rent_vilandi_earrings$ /jewel.php?id=76&type=1 [L]	
+    RewriteRule ^rent_kamarpatta$ /jewel.php?id=56&type=1 [L]	
+    RewriteRule ^rent_mangtikka$ /jewel.php?id=63&type=1 [L]	
+    RewriteRule ^rent_bridal_payal$ /jewel.php?id=65&type=1 [L]	
+    RewriteRule ^rent_bridal_bangles$ /jewel.php?id=66&type=1 [L]	
+    RewriteRule ^bracelet_on_rent$ /jewel.php?id=67&type=1 [L]	
+    RewriteRule ^bridal_hathphool_on_rent$ /jewel.php?id=69&type=1 [L]	
+    RewriteRule ^rent_pendant_set$ /jewel.php?id=70&type=1 [L]	
+    RewriteRule ^baju_bandh$ /jewel.php?id=71&type=1 [L]
+    RewriteRule ^rent_mala_long_necklace$ /jewel.php?id=72&type=1 [L]	
+    RewriteRule ^rent_hair_accessories$ /jewel.php?id=73&type=1 [L]
+    RewriteRule ^bridal_jewellery$ /jewel.php?id=82&type=1 [L]
+
+    RewriteRule ^jewel/([^/]+)$ /jewel_detail.php?name=$1 [L]
+    RewriteRule ^apparel/([^/]+)$ /apparel_detail.php?name=$1 [L]
+    
+    
+# RewriteCond %{HTTPS} off [OR]
+# RewriteCond %{HTTP_HOST} ^www\. [NC]
+# RewriteRule ^ https://srishringarr.com%{REQUEST_URI} [L,R=301]
+
+
+# ErrorDocument 404 /notfound.php
+
+
+</IfModule>

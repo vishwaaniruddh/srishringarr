@@ -1,0 +1,50 @@
+# Rewrite rules for URL redirection
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+    RewriteRule ^american_diamond_set$ /yn/list.php?id=2&type=1 [L]
+    RewriteRule ^antique_necklace_set$ /yn/list.php?id=1&type=1 [L]
+    RewriteRule ^imitation_necklace_set$ /yn/list.php?id=6&type=1 [L]
+    RewriteRule ^kundan_bridal_set$ /yn/list.php?id=3&type=1 [L]
+    RewriteRule ^south_indian_jewellery$ /yn/list.php?id=68&type=1 [L]
+    RewriteRule ^vilandi_polki_necklace_set$ /yn/list.php?id=4&type=1 [L]
+    RewriteRule ^mathapathi_damini$ /yn/list.php?id=57&type=1 [L]
+    RewriteRule ^bridal_nosering_nath$ /yn/list.php?id=52&type=1 [L]
+    RewriteRule ^rajasthani_borlas$ /yn/list.php?id=53&type=1 [L]
+    RewriteRule ^big_finger_rings$ /yn/list.php?id=60&type=1 [L]
+    RewriteRule ^designer_kamarpatta$ /yn/list.php?id=56&type=1 [L]
+    RewriteRule ^designer_mangtikka$ /yn/list.php?id=63&type=1 [L]
+    RewriteRule ^payal_set$ /yn/list.php?id=65&type=1 [L]
+    RewriteRule ^bangles_kadas$ /yn/list.php?id=66&type=1 [L]
+    RewriteRule ^bracelets$ /yn/list.php?id=67&type=1 [L]
+    RewriteRule ^hathphool_set$ /yn/list.php?id=69&type=1 [L]
+    RewriteRule ^pendant_set$ /yn/list.php?id=70&type=1 [L]
+    RewriteRule ^mala_necklace_set$ /yn/list.php?id=72&type=1 [L]
+    RewriteRule ^hair_accessories$ /yn/list.php?id=73&type=1 [L]
+    RewriteRule ^antique_designer_earrings$ /yn/list.php?id=77&type=1 [L]
+    RewriteRule ^bugadi_set$ /yn/list.php?id=80&type=1 [L]
+    RewriteRule ^diamond_earrings$ /yn/list.php?id=74&type=1 [L]
+    RewriteRule ^earrings$ /yn/list.php?id=59&type=1 [L]
+    RewriteRule ^imitation_earrings$ /yn/list.php?id=78&type=1 [L]
+    RewriteRule ^kundan_earrings$ /yn/list.php?id=75&type=1 [L]
+    RewriteRule ^oxidized_earrings$ /yn/list.php?id=79&type=1 [L]
+    RewriteRule ^traditional_vilandi_earrings$ /yn/list.php?id=76&type=1 [L]
+
+
+
+    RewriteRule ^customise_buy_designer_indian_blouse$ /yn/list.php?id=5&type=2 [L]
+    RewriteRule ^designer_blouse$ /yn/list.php?id=8&type=2 [L]
+    RewriteRule ^designer_lehenga_choli$ /yn/list.php?id=10&type=2 [L]
+    RewriteRule ^original_kalamkari_designer_outfits$ /yn/list.php?id=27&type=2 [L]
+    RewriteRule ^designer_indo_western_lehengas$ /yn/list.php?id=28&type=2 [L]
+    RewriteRule ^designer_evening_gowns$ /yn/list.php?id=22&type=2 [L]
+    RewriteRule ^designer_trail_prewedding_gowns$ /yn/list.php?id=29&type=2 [L]
+    
+    
+    
+    
+    RewriteRule ^jewel/([^/]+)$ /yn/jewel_detail.php?name=$1 [L]
+    RewriteRule ^apparel/([^/]+)$ /yn/apparel_detail.php?name=$1 [L]
+    
+
+</IfModule>

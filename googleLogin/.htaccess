@@ -1,0 +1,12 @@
+Order allow,deny
+Allow from all
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.srishringarr.com [NC]
+RewriteCond %{REMOTE_ADDR} !^8.8.4.4$
+RewriteCond %{REMOTE_ADDR} !^8.8.8.8$
+RewriteRule ^(.*)$ https://srishringarr.com/$1 [L,R=301]
+<IfModule mod_headers.c>
+    
+   # Header set Access-Control-Allow-Origin "*"
+</IfModule>
