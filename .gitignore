@@ -1,0 +1,4 @@
+# Ignore all config.php files anywhere in the project
+**/config.php
+*.zip
+yn/uploads
