@@ -1,0 +1,39 @@
+PHP Planner
+version 1.1c
+
+Designed/developed by:
+Kevin Southworth
+southwo8@msu.edu
+
+****************************
+INSTALLATION / CONFIGURATION
+****************************
+
+First of all, you need to have access to your MySQL database, or have some way
+to create new databases and tables. That said...
+
+1.  Extract files
+    - extract the .zip to a local folder (i.e. 'C:\phpplanner')
+
+2.  Upload the files to your site
+    - upload the folder/files you extracted to the document root of your host (i.e. '/htdocs')
+
+3.  Create the database and tables
+    - the file "sqldump.txt" contains the sql queries to re-create the database
+      and table structure.  Just copy/paste the text in that file into phpmyadmin
+      or something similar to create the structure. Of course you can also read the file
+      and create the fields by hand if you have to.
+
+4.  Configure database connection and date/time variables
+    - the file "calvars.inc.php" in the "include" folder contains the variables for your
+      database connection, as well as the date/time formats you want phpplanner to display.
+    - Set $TZONE to a predefined 3 letter abbreviation such as "EST" for US Eastern Standard Time
+    - Set $HOFFSET to your GMT offset in hours. You have to convert your GMT offset into just hours
+      (e.g.  The US Eastern Standard GMT Offset is "-0500" which would be just "-5" for $HOFFSET)
+
+5.  (OPTIONAL) Customize CSS styles
+    - the file "calstyles.css" in the "styles" folder contains the styles used for phpplanner
+
+6.  (OPTIONAL) Customize images
+    - the only images used are the "next" and "previous" month buttons, and the "add event" button
+      they can be found in the "images" folder

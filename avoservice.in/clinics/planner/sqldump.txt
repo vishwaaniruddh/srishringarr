@@ -1,0 +1,50 @@
+# phpMyAdmin MySQL-Dump
+# version 2.2.3
+# http://phpwizard.net/phpMyAdmin/
+# http://phpmyadmin.sourceforge.net/ (download page)
+#
+# Host: localhost
+# Generation Time: Feb 12, 2002 at 01:28 PM
+# Server version: 3.23.47
+# PHP Version: 4.1.1
+# Database : `Schedule`
+# --------------------------------------------------------
+
+#
+# Table structure for table `admin`
+#
+
+CREATE TABLE admin (
+  username varchar(30) NOT NULL default '',
+  password varchar(30) NOT NULL default '',
+  PRIMARY KEY  (username)
+) TYPE=MyISAM;
+
+INSERT INTO admin VALUES ('user', PASSWORD('pass'));
+
+# --------------------------------------------------------
+
+#
+# Table structure for table `resources`
+#
+
+CREATE TABLE resources (
+  resource char(20) NOT NULL default '',
+  PRIMARY KEY  (resource),
+  KEY Resource (resource)
+) TYPE=MyISAM;
+# --------------------------------------------------------
+
+#
+# Table structure for table `sched`
+#
+
+CREATE TABLE sched (
+  id int(11) NOT NULL auto_increment,
+  datestamp int(11) NOT NULL default '0',
+  stimestamp int(11) default '0',
+  etimestamp int(11) default '0',
+  resource varchar(50) default NULL,
+  descr varchar(50) default NULL,
+  PRIMARY KEY  (id)
+) TYPE=MyISAM;
