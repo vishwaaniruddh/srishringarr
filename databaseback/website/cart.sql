@@ -1,0 +1,77 @@
+/*M!999999\- enable the sandbox mode */ 
+-- MariaDB dump 10.19  Distrib 10.11.10-MariaDB, for Linux (x86_64)
+--
+-- Host: localhost    Database: u464193275_srishrinjewels
+-- ------------------------------------------------------
+-- Server version	10.11.10
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `cart`
+--
+
+DROP TABLE IF EXISTS `cart`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `cart` (
+  `cart_id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `product_type` int(11) NOT NULL COMMENT '1 is jewel,2is garment',
+  `product_id` int(11) NOT NULL,
+  `qty` int(11) NOT NULL,
+  `product_amt` float(10,2) NOT NULL,
+  `total_amt` float(10,2) NOT NULL,
+  `date` datetime NOT NULL,
+  `status` int(11) NOT NULL COMMENT '1-if paid , 0  if in cart only and not paid',
+  `ac_typ` int(11) NOT NULL COMMENT '1is rent ,2 is buy',
+  `rent_dt` date NOT NULL,
+  `return_dt` date NOT NULL,
+  `deposit_amt` float(10,2) NOT NULL,
+  `bill_id` int(11) NOT NULL COMMENT '(rent)if ac_typ is 1 the bill id is id of tables(phppos_rent,rent_amount,order_detail)in sar database',
+  `order_id` int(11) NOT NULL DEFAULT 0,
+  `order_detail_id` int(11) NOT NULL DEFAULT 0 COMMENT 'id in order detail table',
+  `size` int(11) NOT NULL,
+  `is_customized` int(11) NOT NULL,
+  `image` varchar(300) NOT NULL,
+  `deposite_date` date NOT NULL,
+  `sku` varchar(30) NOT NULL,
+  `discount` varchar(10) NOT NULL,
+  `active` tinyint(1) DEFAULT 1,
+  `mrp` varchar(10) NOT NULL,
+  `purchase_type` varchar(50) NOT NULL COMMENT 'In SS Rent and Sell Only\r\n',
+  PRIMARY KEY (`cart_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `cart`
+--
+
+LOCK TABLES `cart` WRITE;
+/*!40000 ALTER TABLE `cart` DISABLE KEYS */;
+INSERT INTO `cart` VALUES
+(1,891592,2,2558,1,10000.00,10000.00,'2025-03-22 16:54:36',0,1,'2025-03-29','2025-03-31',32550.00,0,0,0,0,0,'https://srishringarr.com/yn/uploads/2023/11/16992760740.jpg','2025-03-22','YNL316XL','',1,'',''),
+(2,891592,1,10071,1,4300.00,4300.00,'2025-03-22 17:27:14',0,1,'2025-03-29','2025-03-31',5800.00,0,0,0,0,0,'https://srishringarr.com/yn/uploads/2021/11/16368874360.jpg','2025-03-22','KP250','',1,'','');
+/*!40000 ALTER TABLE `cart` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2025-03-29  9:14:58
